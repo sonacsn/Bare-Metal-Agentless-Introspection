@@ -25,14 +25,14 @@ Solution Concept :
 
 Reference Architecture:
 
-<img src="https://github.com/BU-NU-CLOUD-SP18/Bare-Metal-Agentless-Introspection/blob/master/ref_new.PNG" width="200" height="400" />
+<img src="https://github.com/BU-NU-CLOUD-SP18/Bare-Metal-Agentless-Introspection/blob/master/ref_new.PNG" width="300" height="400" />
                    Figure 1
 Figure 1 depicts the existing architecture in which the crawler exists on the host where the boot images of the virtual machines are written on the physical disks.
 
 Agentless Introspection using BMI:
 
 
-<img src="https://github.com/BU-NU-CLOUD-SP18/Bare-Metal-Agentless-Introspection/blob/master/arch-new.PNG" width="200" height="400" />	
+<img src="https://github.com/BU-NU-CLOUD-SP18/Bare-Metal-Agentless-Introspection/blob/master/arch-new.PNG" width="300" height="400" />	
         Figure 2
 
 Figure 2 depicts the architecture of Introspection technique of bare metal servers using master crawler. Bare metal imaging clones the images of bare metal and mounts it to the system crawler as requested by Master crawler. Then master Crawler send the state information to the annotators where analytics is performed to figure out the system vulnerabilities. 
