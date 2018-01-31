@@ -25,8 +25,8 @@ Solution Concept :
 
 Reference Architecture:
 
-<img src="https://github.com/BU-NU-CLOUD-SP18/Bare-Metal-Agentless-Introspection/blob/master/ref_new.PNG" width="300" height="400" />
-                   Figure 1
+<img src="https://github.com/BU-NU-CLOUD-SP18/Bare-Metal-Agentless-Introspection/blob/master/ref_new.PNG" width="300" height="300" />
+        Figure 1<br/>
 Figure 1 depicts the existing architecture in which the crawler exists on the host where the boot images of the virtual machines are written on the physical disks.
 
 Agentless Introspection using BMI:
