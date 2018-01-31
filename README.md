@@ -9,6 +9,7 @@
 - The frame is analyzed by passing through different checks to detect any possible vulnerabilities or security threats.
 - Extend BMI API to allow introspection of bare metal images.
  
+ 
 **Users/Personas Of The Project:** <br/>
 Agentless Introspection of Bare Metal Server Images Using M2 will be used and will be a crucial contribution towards MOC as the project is open source.
 
@@ -23,14 +24,15 @@ Agentless Introspection of Bare Metal Server Images Using M2 will be used and wi
 
 **Reference Architecture:**
 
-<img src="https://github.com/BU-NU-CLOUD-SP18/Bare-Metal-Agentless-Introspection/blob/master/ref_new.PNG" width="300" height="400" />
+<img src="https://github.com/BU-NU-CLOUD-SP18/Bare-Metal-Agentless-Introspection/blob/master/ref_new.PNG" width="400" height="400" />
                    Figure 1 <br/>
 		   
 Figure 1 depicts the existing architecture in which the crawler exists on the host where the boot images of the virtual machines are written on the physical disks.
 
+
 **Agentless Introspection using BMI:**
 
-<img src="https://github.com/BU-NU-CLOUD-SP18/Bare-Metal-Agentless-Introspection/blob/master/arch-new.PNG" width="300" height="400" />	
+<img src="https://github.com/BU-NU-CLOUD-SP18/Bare-Metal-Agentless-Introspection/blob/master/arch-new.PNG" width="400" height="400" />	
         Figure 2 <br/>
 Figure 2 depicts the architecture of Introspection technique of bare metal servers using master crawler. Bare metal imaging clones the images of bare metal and mounts it to the system crawler as requested by Master crawler. Then master Crawler send the state information to the annotators where analytics is performed to figure out the system vulnerabilities. 
 
@@ -43,6 +45,7 @@ Figure 2 depicts the architecture of Introspection technique of bare metal serve
 | Agentful introspection | Agentless introspection |
 | CPU performance can go down because we are dedicating resources from the  host for crawler | Agentless system will not affect the performance because crawler will be running on a different node |
 | Noise and Security vulnerabilities exists as crawlers gathers information while going through the system images | No Noise and security vulnerabilities as the crawler skims through the cloned system images in a separate node |
+
 
 **Acceptance Criteria:** <br/>
 Minimum acceptance criteria is a script that allows The crawler to operate in a specified network to fetch Frames and send them to annotators for analysis.
