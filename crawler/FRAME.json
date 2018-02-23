@@ -1,0 +1,4202 @@
+[
+ {
+   "FIELD1": "metadata\t\"metadata\"\t{\"system_type\"",
+   "FIELD2": "host",
+   "FIELD3": "2018-02-19T19:15:02-0500",
+   "FIELD4": "172.16.10.48",
+   "FIELD5": "os,package",
+   "FIELD6": "da3c0725-e66b-406c-aef5-8801f4c62131",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "os\t\"linux\"\t{\"boottime\"",
+   "FIELD2": "unsupported",
+   "FIELD3": "unsupported",
+   "FIELD4": "0.0.0.0",
+   "FIELD5": "rhel",
+   "FIELD6": "7.1",
+   "FIELD7": "unknown",
+   "FIELD8": "unknown"
+ },
+ {
+   "FIELD1": "package\t\"desktop-file-utils\"\t{\"installed\"",
+   "FIELD2": "1451342886",
+   "FIELD3": "desktop-file-utils",
+   "FIELD4": "211243",
+   "FIELD5": "0.21-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"filesystem\"\t{\"installed\"",
+   "FIELD2": "1451342763",
+   "FIELD3": "filesystem",
+   "FIELD4": "0",
+   "FIELD5": "3.2-18.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"bind-license\"\t{\"installed\"",
+   "FIELD2": "1451342900",
+   "FIELD3": "bind-license",
+   "FIELD4": "26019",
+   "FIELD5": "9.9.4-18.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"glibc-common\"\t{\"installed\"",
+   "FIELD2": "1451342773",
+   "FIELD3": "glibc-common",
+   "FIELD4": "120268929",
+   "FIELD5": "2.17-78.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libstdc++\"\t{\"installed\"",
+   "FIELD2": "1451342777",
+   "FIELD3": "libstdc++",
+   "FIELD4": "1077046",
+   "FIELD5": "4.8.3-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"kbd\"\t{\"installed\"",
+   "FIELD2": "1451342904",
+   "FIELD3": "kbd",
+   "FIELD4": "1380333",
+   "FIELD5": "1.15.5-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pcre\"\t{\"installed\"",
+   "FIELD2": "1451342779",
+   "FIELD3": "pcre",
+   "FIELD4": "1463156",
+   "FIELD5": "8.32-14.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"rsyslog\"\t{\"installed\"",
+   "FIELD2": "1451342929",
+   "FIELD3": "rsyslog",
+   "FIELD4": "2033615",
+   "FIELD5": "7.4.7-7.el7_0",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"audit-libs\"\t{\"installed\"",
+   "FIELD2": "1451342779",
+   "FIELD3": "audit-libs",
+   "FIELD4": "210402",
+   "FIELD5": "2.4.1-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"rdma\"\t{\"installed\"",
+   "FIELD2": "1451342932",
+   "FIELD3": "rdma",
+   "FIELD4": "42799",
+   "FIELD5": "7.1_3.17-5.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"popt\"\t{\"installed\"",
+   "FIELD2": "1451342780",
+   "FIELD3": "popt",
+   "FIELD4": "88516",
+   "FIELD5": "1.13-16.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"firewalld\"\t{\"installed\"",
+   "FIELD2": "1451342933",
+   "FIELD3": "firewalld",
+   "FIELD4": "2404285",
+   "FIELD5": "0.3.9-11.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libdb\"\t{\"installed\"",
+   "FIELD2": "1451342781",
+   "FIELD3": "libdb",
+   "FIELD4": "1853824",
+   "FIELD5": "5.3.21-17.el7_0.1",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"biosdevname\"\t{\"installed\"",
+   "FIELD2": "1451342938",
+   "FIELD3": "biosdevname",
+   "FIELD4": "59151",
+   "FIELD5": "0.6.1-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"grep\"\t{\"installed\"",
+   "FIELD2": "1451342783",
+   "FIELD3": "grep",
+   "FIELD4": "1194688",
+   "FIELD5": "2.20-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"parted\"\t{\"installed\"",
+   "FIELD2": "1451342940",
+   "FIELD3": "parted",
+   "FIELD4": "2331533",
+   "FIELD5": "3.1-20.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"glib2\"\t{\"installed\"",
+   "FIELD2": "1451342785",
+   "FIELD3": "glib2",
+   "FIELD4": "10575192",
+   "FIELD5": "2.40.0-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"sudo\"\t{\"installed\"",
+   "FIELD2": "1451342945",
+   "FIELD3": "sudo",
+   "FIELD4": "2520306",
+   "FIELD5": "1.8.6p7-13.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"elfutils-libelf\"\t{\"installed\"",
+   "FIELD2": "1451342787",
+   "FIELD3": "elfutils-libelf",
+   "FIELD4": "974254",
+   "FIELD5": "0.160-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iprutils\"\t{\"installed\"",
+   "FIELD2": "1451342947",
+   "FIELD3": "iprutils",
+   "FIELD4": "870815",
+   "FIELD5": "2.4.3-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libgcrypt\"\t{\"installed\"",
+   "FIELD2": "1451342787",
+   "FIELD3": "libgcrypt",
+   "FIELD4": "597159",
+   "FIELD5": "1.5.3-12.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"rootfiles\"\t{\"installed\"",
+   "FIELD2": "1451342949",
+   "FIELD3": "rootfiles",
+   "FIELD4": "599",
+   "FIELD5": "8.1-11.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"sqlite\"\t{\"installed\"",
+   "FIELD2": "1451342788",
+   "FIELD3": "sqlite",
+   "FIELD4": "814199",
+   "FIELD5": "3.7.17-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl7260-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342950",
+   "FIELD3": "iwl7260-firmware",
+   "FIELD4": "2124321",
+   "FIELD5": "22.0.7.0-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"dbus-glib\"\t{\"installed\"",
+   "FIELD2": "1451342789",
+   "FIELD3": "dbus-glib",
+   "FIELD4": "301237",
+   "FIELD5": "0.100-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl105-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342951",
+   "FIELD3": "iwl105-firmware",
+   "FIELD4": "771605",
+   "FIELD5": "18.168.6.1-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"kmod-libs\"\t{\"installed\"",
+   "FIELD2": "1451342790",
+   "FIELD3": "kmod-libs",
+   "FIELD4": "91520",
+   "FIELD5": "14-10.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl2000-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342952",
+   "FIELD3": "iwl2000-firmware",
+   "FIELD4": "777801",
+   "FIELD5": "18.168.6.1-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"file\"\t{\"installed\"",
+   "FIELD2": "1451342792",
+   "FIELD3": "file",
+   "FIELD4": "67352",
+   "FIELD5": "5.11-21.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl135-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342953",
+   "FIELD3": "iwl135-firmware",
+   "FIELD4": "783153",
+   "FIELD5": "18.168.6.1-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libcroco\"\t{\"installed\"",
+   "FIELD2": "1451342792",
+   "FIELD3": "libcroco",
+   "FIELD4": "320283",
+   "FIELD5": "0.6.8-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"wget\"\t{\"installed\"",
+   "FIELD2": "1471369923",
+   "FIELD3": "wget",
+   "FIELD4": "2055417",
+   "FIELD5": "1.14-10.el7_0.1",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libunistring\"\t{\"installed\"",
+   "FIELD2": "1451342794",
+   "FIELD3": "libunistring",
+   "FIELD4": "1145753",
+   "FIELD5": "0.9.3-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Pod-Perldoc\"\t{\"installed\"",
+   "FIELD2": "1471370202",
+   "FIELD3": "perl-Pod-Perldoc",
+   "FIELD4": "166911",
+   "FIELD5": "3.20-4.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"sysvinit-tools\"\t{\"installed\"",
+   "FIELD2": "1451342795",
+   "FIELD3": "sysvinit-tools",
+   "FIELD4": "109118",
+   "FIELD5": "2.88-14.dsf.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Pod-Usage\"\t{\"installed\"",
+   "FIELD2": "1471370203",
+   "FIELD3": "perl-Pod-Usage",
+   "FIELD4": "44671",
+   "FIELD5": "1.63-3.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"lzo\"\t{\"installed\"",
+   "FIELD2": "1451342796",
+   "FIELD3": "lzo",
+   "FIELD4": "165352",
+   "FIELD5": "2.06-6.el7_0.2",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Exporter\"\t{\"installed\"",
+   "FIELD2": "1471370204",
+   "FIELD3": "perl-Exporter",
+   "FIELD4": "56612",
+   "FIELD5": "5.68-3.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"hostname\"\t{\"installed\"",
+   "FIELD2": "1451342796",
+   "FIELD3": "hostname",
+   "FIELD4": "19449",
+   "FIELD5": "3.13-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Carp\"\t{\"installed\"",
+   "FIELD2": "1471370204",
+   "FIELD3": "perl-Carp",
+   "FIELD4": "28276",
+   "FIELD5": "1.26-244.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"p11-kit-trust\"\t{\"installed\"",
+   "FIELD2": "1451342797",
+   "FIELD3": "p11-kit-trust",
+   "FIELD4": "432711",
+   "FIELD5": "0.20.7-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-File-Temp\"\t{\"installed\"",
+   "FIELD2": "1471370205",
+   "FIELD3": "perl-File-Temp",
+   "FIELD4": "158781",
+   "FIELD5": "0.23.01-3.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libteam\"\t{\"installed\"",
+   "FIELD2": "1451342799",
+   "FIELD3": "libteam",
+   "FIELD4": "96500",
+   "FIELD5": "1.15-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Filter\"\t{\"installed\"",
+   "FIELD2": "1471370206",
+   "FIELD3": "perl-Filter",
+   "FIELD4": "148475",
+   "FIELD5": "1.49-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"vim-minimal\"\t{\"installed\"",
+   "FIELD2": "1451342801",
+   "FIELD3": "vim-minimal",
+   "FIELD4": "917768",
+   "FIELD5": "7.4.160-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"vim-filesystem\"\t{\"installed\"",
+   "FIELD2": "1471370211",
+   "FIELD3": "vim-filesystem",
+   "FIELD4": "0",
+   "FIELD5": "7.4.160-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libdb-utils\"\t{\"installed\"",
+   "FIELD2": "1451342802",
+   "FIELD3": "libdb-utils",
+   "FIELD4": "298552",
+   "FIELD5": "5.3.21-17.el7_0.1",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libjpeg-turbo\"\t{\"installed\"",
+   "FIELD2": "1471372042",
+   "FIELD3": "libjpeg-turbo",
+   "FIELD4": "350387",
+   "FIELD5": "1.2.90-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"mozjs17\"\t{\"installed\"",
+   "FIELD2": "1451342803",
+   "FIELD3": "mozjs17",
+   "FIELD4": "4061613",
+   "FIELD5": "17.0.0-10.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libpng\"\t{\"installed\"",
+   "FIELD2": "1471372043",
+   "FIELD3": "libpng",
+   "FIELD4": "616101",
+   "FIELD5": "1.5.13-7.el7_2",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libedit\"\t{\"installed\"",
+   "FIELD2": "1451342804",
+   "FIELD3": "libedit",
+   "FIELD4": "244257",
+   "FIELD5": "3.0-12.20121213cvs.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"kmod\"\t{\"installed\"",
+   "FIELD2": "1471372047",
+   "FIELD3": "kmod",
+   "FIELD4": "236109",
+   "FIELD5": "20-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"snappy\"\t{\"installed\"",
+   "FIELD2": "1451342805",
+   "FIELD3": "snappy",
+   "FIELD4": "119521",
+   "FIELD5": "1.1.0-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libfontenc\"\t{\"installed\"",
+   "FIELD2": "1471372048",
+   "FIELD3": "libfontenc",
+   "FIELD4": "53660",
+   "FIELD5": "1.1.2-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iproute\"\t{\"installed\"",
+   "FIELD2": "1451342806",
+   "FIELD3": "iproute",
+   "FIELD4": "1229280",
+   "FIELD5": "3.10.0-21.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"flac-libs\"\t{\"installed\"",
+   "FIELD2": "1471372049",
+   "FIELD3": "flac-libs",
+   "FIELD4": "471147",
+   "FIELD5": "1.3.0-5.el7_1",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libverto\"\t{\"installed\"",
+   "FIELD2": "1451342806",
+   "FIELD3": "libverto",
+   "FIELD4": "23060",
+   "FIELD5": "0.2.5-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"jbigkit-libs\"\t{\"installed\"",
+   "FIELD2": "1471372050",
+   "FIELD3": "jbigkit-libs",
+   "FIELD4": "105882",
+   "FIELD5": "2.0-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libcurl\"\t{\"installed\"",
+   "FIELD2": "1451342808",
+   "FIELD3": "libcurl",
+   "FIELD4": "422680",
+   "FIELD5": "7.29.0-19.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"harfbuzz\"\t{\"installed\"",
+   "FIELD2": "1471372050",
+   "FIELD3": "harfbuzz",
+   "FIELD4": "404768",
+   "FIELD5": "0.9.36-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"cracklib-dicts\"\t{\"installed\"",
+   "FIELD2": "1451342811",
+   "FIELD3": "cracklib-dicts",
+   "FIELD4": "9389116",
+   "FIELD5": "2.9.0-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libxcb\"\t{\"installed\"",
+   "FIELD2": "1471372052",
+   "FIELD3": "libxcb",
+   "FIELD4": "897776",
+   "FIELD5": "1.11-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"nss\"\t{\"installed\"",
+   "FIELD2": "1451342813",
+   "FIELD3": "nss",
+   "FIELD4": "2544445",
+   "FIELD5": "3.16.2.3-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libX11-common\"\t{\"installed\"",
+   "FIELD2": "1471372053",
+   "FIELD3": "libX11-common",
+   "FIELD4": "1324463",
+   "FIELD5": "1.6.3-2.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pam\"\t{\"installed\"",
+   "FIELD2": "1451342816",
+   "FIELD3": "pam",
+   "FIELD4": "2619575",
+   "FIELD5": "1.1.8-12.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXfixes\"\t{\"installed\"",
+   "FIELD2": "1471372053",
+   "FIELD3": "libXfixes",
+   "FIELD4": "26895",
+   "FIELD5": "5.0.1-2.1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"openldap\"\t{\"installed\"",
+   "FIELD2": "1451342819",
+   "FIELD3": "openldap",
+   "FIELD4": "1004526",
+   "FIELD5": "2.4.39-6.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gdk-pixbuf2\"\t{\"installed\"",
+   "FIELD2": "1471372054",
+   "FIELD3": "gdk-pixbuf2",
+   "FIELD4": "2906560",
+   "FIELD5": "2.31.6-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"nss-sysinit\"\t{\"installed\"",
+   "FIELD2": "1451342822",
+   "FIELD3": "nss-sysinit",
+   "FIELD4": "13973",
+   "FIELD5": "3.16.2.3-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXinerama\"\t{\"installed\"",
+   "FIELD2": "1471372055",
+   "FIELD3": "libXinerama",
+   "FIELD4": "14967",
+   "FIELD5": "1.1.3-2.1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-iniparse\"\t{\"installed\"",
+   "FIELD2": "1451342828",
+   "FIELD3": "python-iniparse",
+   "FIELD4": "115166",
+   "FIELD5": "0.4-9.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"mesa-libEGL\"\t{\"installed\"",
+   "FIELD2": "1471372056",
+   "FIELD3": "mesa-libEGL",
+   "FIELD4": "164773",
+   "FIELD5": "10.6.5-3.20150824.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"m2crypto\"\t{\"installed\"",
+   "FIELD2": "1451342830",
+   "FIELD3": "m2crypto",
+   "FIELD4": "1940565",
+   "FIELD5": "0.21.1-15.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libasyncns\"\t{\"installed\"",
+   "FIELD2": "1471372056",
+   "FIELD3": "libasyncns",
+   "FIELD4": "56738",
+   "FIELD5": "0.8-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pygobject2\"\t{\"installed\"",
+   "FIELD2": "1451342832",
+   "FIELD3": "pygobject2",
+   "FIELD4": "890119",
+   "FIELD5": "2.28.6-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"fontconfig\"\t{\"installed\"",
+   "FIELD2": "1471372057",
+   "FIELD3": "fontconfig",
+   "FIELD4": "571847",
+   "FIELD5": "2.10.95-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"redhat-logos\"\t{\"installed\"",
+   "FIELD2": "1451342842",
+   "FIELD3": "redhat-logos",
+   "FIELD4": "13960340",
+   "FIELD5": "70.0.3-4.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pixman\"\t{\"installed\"",
+   "FIELD2": "1471372061",
+   "FIELD3": "pixman",
+   "FIELD4": "715344",
+   "FIELD5": "0.32.6-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"yum-metadata-parser\"\t{\"installed\"",
+   "FIELD2": "1451342843",
+   "FIELD3": "yum-metadata-parser",
+   "FIELD4": "58781",
+   "FIELD5": "1.1.4-10.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"tzdata-java\"\t{\"installed\"",
+   "FIELD2": "1471372063",
+   "FIELD3": "tzdata-java",
+   "FIELD4": "367610",
+   "FIELD5": "2016f-1.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"rhnlib\"\t{\"installed\"",
+   "FIELD2": "1451342844",
+   "FIELD3": "rhnlib",
+   "FIELD4": "216605",
+   "FIELD5": "2.5.65-2.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"dracut-network\"\t{\"installed\"",
+   "FIELD2": "1471372071",
+   "FIELD3": "dracut-network",
+   "FIELD4": "139693",
+   "FIELD5": "033-360.el7_2.1",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-slip\"\t{\"installed\"",
+   "FIELD2": "1451342845",
+   "FIELD3": "python-slip",
+   "FIELD4": "61353",
+   "FIELD5": "0.4.0-2.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"java-1.7.0-openjdk-devel\"\t{\"installed\"",
+   "FIELD2": "1471372393",
+   "FIELD3": "java-1.7.0-openjdk-devel",
+   "FIELD4": "37527039",
+   "FIELD5": "1.7.0.111-2.6.7.2.el7_2",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-setuptools\"\t{\"installed\"",
+   "FIELD2": "1451342846",
+   "FIELD3": "python-setuptools",
+   "FIELD4": "2039798",
+   "FIELD5": "0.9.8-3.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-dmidecode\"\t{\"installed\"",
+   "FIELD2": "1451342847",
+   "FIELD3": "python-dmidecode",
+   "FIELD4": "267006",
+   "FIELD5": "3.10.13-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"avahi-autoipd\"\t{\"installed\"",
+   "FIELD2": "1451342849",
+   "FIELD3": "avahi-autoipd",
+   "FIELD4": "41696",
+   "FIELD5": "0.6.31-14.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"alsa-lib\"\t{\"installed\"",
+   "FIELD2": "1451342853",
+   "FIELD3": "alsa-lib",
+   "FIELD4": "1223898",
+   "FIELD5": "1.0.28-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"fipscheck-lib\"\t{\"installed\"",
+   "FIELD2": "1451342855",
+   "FIELD3": "fipscheck-lib",
+   "FIELD4": "11450",
+   "FIELD5": "1.4.1-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"virt-what\"\t{\"installed\"",
+   "FIELD2": "1451342856",
+   "FIELD3": "virt-what",
+   "FIELD4": "40869",
+   "FIELD5": "1.13-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"cryptsetup-libs\"\t{\"installed\"",
+   "FIELD2": "1451342857",
+   "FIELD3": "cryptsetup-libs",
+   "FIELD4": "707034",
+   "FIELD5": "1.6.6-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"polkit\"\t{\"installed\"",
+   "FIELD2": "1451342860",
+   "FIELD3": "polkit",
+   "FIELD4": "483346",
+   "FIELD5": "0.112-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"cronie-anacron\"\t{\"installed\"",
+   "FIELD2": "1451342863",
+   "FIELD3": "cronie-anacron",
+   "FIELD4": "41587",
+   "FIELD5": "1.4.11-13.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libpciaccess\"\t{\"installed\"",
+   "FIELD2": "1451342866",
+   "FIELD3": "libpciaccess",
+   "FIELD4": "44287",
+   "FIELD5": "0.13.1-4.1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"dnsmasq\"\t{\"installed\"",
+   "FIELD2": "1451342868",
+   "FIELD3": "dnsmasq",
+   "FIELD4": "475528",
+   "FIELD5": "2.66-12.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"glib-networking\"\t{\"installed\"",
+   "FIELD2": "1451342870",
+   "FIELD3": "glib-networking",
+   "FIELD4": "417100",
+   "FIELD5": "2.40.0-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"fxload\"\t{\"installed\"",
+   "FIELD2": "1451342871",
+   "FIELD3": "fxload",
+   "FIELD4": "42589",
+   "FIELD5": "2002_04_11-16.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"kpartx\"\t{\"installed\"",
+   "FIELD2": "1451342874",
+   "FIELD3": "kpartx",
+   "FIELD4": "37747",
+   "FIELD5": "0.4.9-77.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"rpm-build-libs\"\t{\"installed\"",
+   "FIELD2": "1451342876",
+   "FIELD3": "rpm-build-libs",
+   "FIELD4": "166680",
+   "FIELD5": "4.11.1-25.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gpgme\"\t{\"installed\"",
+   "FIELD2": "1451342877",
+   "FIELD3": "gpgme",
+   "FIELD4": "547534",
+   "FIELD5": "1.3.2-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"rhn-setup\"\t{\"installed\"",
+   "FIELD2": "1451342880",
+   "FIELD3": "rhn-setup",
+   "FIELD4": "215155",
+   "FIELD5": "2.0.2-6.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"hardlink\"\t{\"installed\"",
+   "FIELD2": "1451342881",
+   "FIELD3": "hardlink",
+   "FIELD4": "16545",
+   "FIELD5": "1.0-19.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libndp\"\t{\"installed\"",
+   "FIELD2": "1451342882",
+   "FIELD3": "libndp",
+   "FIELD4": "71387",
+   "FIELD5": "1.2-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"kernel-tools-libs\"\t{\"installed\"",
+   "FIELD2": "1451342883",
+   "FIELD3": "kernel-tools-libs",
+   "FIELD4": "18640",
+   "FIELD5": "3.10.0-229.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"teamd\"\t{\"installed\"",
+   "FIELD2": "1451342884",
+   "FIELD3": "teamd",
+   "FIELD4": "273394",
+   "FIELD5": "1.15-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libgcc\"\t{\"installed\"",
+   "FIELD2": "1451342762",
+   "FIELD3": "libgcc",
+   "FIELD4": "179272",
+   "FIELD5": "4.8.3-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"emacs-filesystem\"\t{\"installed\"",
+   "FIELD2": "1451342886",
+   "FIELD3": "emacs-filesystem",
+   "FIELD4": "0",
+   "FIELD5": "24.3-11.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"setup\"\t{\"installed\"",
+   "FIELD2": "1451342762",
+   "FIELD3": "setup",
+   "FIELD4": "696377",
+   "FIELD5": "2.8.71-5.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"xdg-utils\"\t{\"installed\"",
+   "FIELD2": "1451342887",
+   "FIELD3": "xdg-utils",
+   "FIELD4": "276967",
+   "FIELD5": "1.1.0-0.16.20120809git.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"tzdata\"\t{\"installed\"",
+   "FIELD2": "1451342764",
+   "FIELD3": "tzdata",
+   "FIELD4": "1776629",
+   "FIELD5": "2015a-1.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"kbd-legacy\"\t{\"installed\"",
+   "FIELD2": "1451342900",
+   "FIELD3": "kbd-legacy",
+   "FIELD4": "503608",
+   "FIELD5": "1.15.5-11.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"ncurses-base\"\t{\"installed\"",
+   "FIELD2": "1451342765",
+   "FIELD3": "ncurses-base",
+   "FIELD4": "223432",
+   "FIELD5": "5.9-13.20130511.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"bind-libs-lite\"\t{\"installed\"",
+   "FIELD2": "1451342901",
+   "FIELD3": "bind-libs-lite",
+   "FIELD4": "1773512",
+   "FIELD5": "9.9.4-18.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"nss-softokn-freebl\"\t{\"installed\"",
+   "FIELD2": "1451342773",
+   "FIELD3": "nss-softokn-freebl",
+   "FIELD4": "524036",
+   "FIELD5": "3.16.2.3-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"NetworkManager\"\t{\"installed\"",
+   "FIELD2": "1451342903",
+   "FIELD3": "NetworkManager",
+   "FIELD4": "9268573",
+   "FIELD5": "1.0.0-14.git20150121.b4ea599c.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"xz-libs\"\t{\"installed\"",
+   "FIELD2": "1451342777",
+   "FIELD3": "xz-libs",
+   "FIELD4": "235727",
+   "FIELD5": "5.1.2-9alpha.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"kexec-tools\"\t{\"installed\"",
+   "FIELD2": "1451342903",
+   "FIELD3": "kexec-tools",
+   "FIELD4": "681735",
+   "FIELD5": "2.0.7-19.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"ncurses-libs\"\t{\"installed\"",
+   "FIELD2": "1451342778",
+   "FIELD3": "ncurses-libs",
+   "FIELD4": "1027960",
+   "FIELD5": "5.9-13.20130511.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"NetworkManager-tui\"\t{\"installed\"",
+   "FIELD2": "1451342904",
+   "FIELD3": "NetworkManager-tui",
+   "FIELD4": "264036",
+   "FIELD5": "1.0.0-14.git20150121.b4ea599c.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libsepol\"\t{\"installed\"",
+   "FIELD2": "1451342778",
+   "FIELD3": "libsepol",
+   "FIELD4": "288296",
+   "FIELD5": "2.1.9-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"kernel\"\t{\"installed\"",
+   "FIELD2": "1451342927",
+   "FIELD3": "kernel",
+   "FIELD4": "137462896",
+   "FIELD5": "3.10.0-229.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libselinux\"\t{\"installed\"",
+   "FIELD2": "1451342779",
+   "FIELD3": "libselinux",
+   "FIELD4": "162722",
+   "FIELD5": "2.2.2-6.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"kernel-tools\"\t{\"installed\"",
+   "FIELD2": "1451342928",
+   "FIELD3": "kernel-tools",
+   "FIELD4": "227132",
+   "FIELD5": "3.10.0-229.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"info\"\t{\"installed\"",
+   "FIELD2": "1451342779",
+   "FIELD3": "info",
+   "FIELD4": "494502",
+   "FIELD5": "5.1-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"irqbalance\"\t{\"installed\"",
+   "FIELD2": "1451342929",
+   "FIELD3": "irqbalance",
+   "FIELD4": "67007",
+   "FIELD5": "1.0.7-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libuuid\"\t{\"installed\"",
+   "FIELD2": "1451342780",
+   "FIELD3": "libuuid",
+   "FIELD4": "20246",
+   "FIELD5": "2.23.2-21.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"grub2\"\t{\"installed\"",
+   "FIELD2": "1451342931",
+   "FIELD3": "grub2",
+   "FIELD4": "7394739",
+   "FIELD5": "2.02-0.16.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"nspr\"\t{\"installed\"",
+   "FIELD2": "1451342780",
+   "FIELD3": "nspr",
+   "FIELD4": "287576",
+   "FIELD5": "4.10.6-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"chkconfig\"\t{\"installed\"",
+   "FIELD2": "1451342781",
+   "FIELD3": "chkconfig",
+   "FIELD4": "742308",
+   "FIELD5": "1.3.61-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"redhat-support-tool\"\t{\"installed\"",
+   "FIELD2": "1451342933",
+   "FIELD3": "redhat-support-tool",
+   "FIELD4": "1045804",
+   "FIELD5": "0.9.7-1.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libcom_err\"\t{\"installed\"",
+   "FIELD2": "1451342781",
+   "FIELD3": "libcom_err",
+   "FIELD4": "60409",
+   "FIELD5": "1.42.9-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"audit\"\t{\"installed\"",
+   "FIELD2": "1451342934",
+   "FIELD3": "audit",
+   "FIELD4": "637441",
+   "FIELD5": "2.4.1-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"nss-util\"\t{\"installed\"",
+   "FIELD2": "1451342782",
+   "FIELD3": "nss-util",
+   "FIELD4": "182024",
+   "FIELD5": "3.16.2.3-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"tuned\"\t{\"installed\"",
+   "FIELD2": "1451342938",
+   "FIELD3": "tuned",
+   "FIELD4": "453412",
+   "FIELD5": "2.4.1-1.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"bzip2-libs\"\t{\"installed\"",
+   "FIELD2": "1451342782",
+   "FIELD3": "bzip2-libs",
+   "FIELD4": "70093",
+   "FIELD5": "1.0.6-12.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"aic94xx-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342938",
+   "FIELD3": "aic94xx-firmware",
+   "FIELD4": "30752",
+   "FIELD5": "30-6.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gawk\"\t{\"installed\"",
+   "FIELD2": "1451342783",
+   "FIELD3": "gawk",
+   "FIELD4": "2435850",
+   "FIELD5": "4.0.2-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"openssh-server\"\t{\"installed\"",
+   "FIELD2": "1451342939",
+   "FIELD3": "openssh-server",
+   "FIELD4": "938247",
+   "FIELD5": "6.6.1p1-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libffi\"\t{\"installed\"",
+   "FIELD2": "1451342784",
+   "FIELD3": "libffi",
+   "FIELD4": "47766",
+   "FIELD5": "3.0.13-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"openssh-clients\"\t{\"installed\"",
+   "FIELD2": "1451342940",
+   "FIELD3": "openssh-clients",
+   "FIELD4": "2286160",
+   "FIELD5": "6.6.1p1-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pkgconfig\"\t{\"installed\"",
+   "FIELD2": "1451342785",
+   "FIELD3": "pkgconfig",
+   "FIELD4": "105522",
+   "FIELD5": "0.27.1-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"selinux-policy-targeted\"\t{\"installed\"",
+   "FIELD2": "1451342944",
+   "FIELD3": "selinux-policy-targeted",
+   "FIELD4": "10502984",
+   "FIELD5": "3.13.1-23.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libgpg-error\"\t{\"installed\"",
+   "FIELD2": "1451342787",
+   "FIELD3": "libgpg-error",
+   "FIELD4": "350865",
+   "FIELD5": "1.12-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"xfsprogs\"\t{\"installed\"",
+   "FIELD2": "1451342946",
+   "FIELD3": "xfsprogs",
+   "FIELD4": "3870890",
+   "FIELD5": "3.2.1-6.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libattr\"\t{\"installed\"",
+   "FIELD2": "1451342787",
+   "FIELD3": "libattr",
+   "FIELD4": "19888",
+   "FIELD5": "2.4.46-12.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"btrfs-progs\"\t{\"installed\"",
+   "FIELD2": "1451342947",
+   "FIELD3": "btrfs-progs",
+   "FIELD4": "2586826",
+   "FIELD5": "3.16.2-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libcap\"\t{\"installed\"",
+   "FIELD2": "1451342787",
+   "FIELD3": "libcap",
+   "FIELD4": "111381",
+   "FIELD5": "2.22-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"tar\"\t{\"installed\"",
+   "FIELD2": "1451342948",
+   "FIELD3": "tar",
+   "FIELD4": "2837253",
+   "FIELD5": "1.26-29.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"cpio\"\t{\"installed\"",
+   "FIELD2": "1451342788",
+   "FIELD3": "cpio",
+   "FIELD4": "684422",
+   "FIELD5": "2.11-22.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl6000g2b-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342949",
+   "FIELD3": "iwl6000g2b-firmware",
+   "FIELD4": "1221597",
+   "FIELD5": "17.168.5.2-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"p11-kit\"\t{\"installed\"",
+   "FIELD2": "1451342788",
+   "FIELD3": "p11-kit",
+   "FIELD4": "335333",
+   "FIELD5": "0.20.7-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl6000-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342949",
+   "FIELD3": "iwl6000-firmware",
+   "FIELD4": "536533",
+   "FIELD5": "9.221.4.1-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"lua\"\t{\"installed\"",
+   "FIELD2": "1451342789",
+   "FIELD3": "lua",
+   "FIELD4": "640223",
+   "FIELD5": "5.1.4-14.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl6000g2a-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342950",
+   "FIELD3": "iwl6000g2a-firmware",
+   "FIELD4": "1203349",
+   "FIELD5": "17.168.5.3-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"expat\"\t{\"installed\"",
+   "FIELD2": "1451342789",
+   "FIELD3": "expat",
+   "FIELD4": "208275",
+   "FIELD5": "2.1.0-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl2030-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342951",
+   "FIELD3": "iwl2030-firmware",
+   "FIELD4": "789317",
+   "FIELD5": "18.168.6.1-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"findutils\"\t{\"installed\"",
+   "FIELD2": "1451342790",
+   "FIELD3": "findutils",
+   "FIELD4": "1855629",
+   "FIELD5": "4.5.11-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl5000-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342951",
+   "FIELD3": "iwl5000-firmware",
+   "FIELD4": "1120869",
+   "FIELD5": "8.83.5.1_1-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libidn\"\t{\"installed\"",
+   "FIELD2": "1451342790",
+   "FIELD3": "libidn",
+   "FIELD4": "630423",
+   "FIELD5": "1.28-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl5150-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342952",
+   "FIELD3": "iwl5150-firmware",
+   "FIELD4": "419325",
+   "FIELD5": "8.24.2.2-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"file-libs\"\t{\"installed\"",
+   "FIELD2": "1451342791",
+   "FIELD3": "file-libs",
+   "FIELD4": "3101649",
+   "FIELD5": "5.11-21.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl4965-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342952",
+   "FIELD3": "iwl4965-firmware",
+   "FIELD4": "269897",
+   "FIELD5": "228.61.2.24-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"tcp_wrappers-libs\"\t{\"installed\"",
+   "FIELD2": "1451342791",
+   "FIELD3": "tcp_wrappers-libs",
+   "FIELD4": "134602",
+   "FIELD5": "7.6-77.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl100-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342953",
+   "FIELD3": "iwl100-firmware",
+   "FIELD4": "419497",
+   "FIELD5": "39.31.5.1-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"nss-softokn\"\t{\"installed\"",
+   "FIELD2": "1451342792",
+   "FIELD3": "nss-softokn",
+   "FIELD4": "1097414",
+   "FIELD5": "3.16.2.3-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl6050-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342953",
+   "FIELD3": "iwl6050-firmware",
+   "FIELD4": "1015397",
+   "FIELD5": "41.28.5.1-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libassuan\"\t{\"installed\"",
+   "FIELD2": "1451342792",
+   "FIELD3": "libassuan",
+   "FIELD4": "155391",
+   "FIELD5": "2.1.0-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl3160-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342954",
+   "FIELD3": "iwl3160-firmware",
+   "FIELD4": "2086485",
+   "FIELD5": "22.0.7.0-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"cyrus-sasl-lib\"\t{\"installed\"",
+   "FIELD2": "1451342793",
+   "FIELD3": "cyrus-sasl-lib",
+   "FIELD4": "396823",
+   "FIELD5": "2.1.26-17.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gpg-pubkey\"\t{\"installed\"",
+   "FIELD2": "1471369897",
+   "FIELD3": "gpg-pubkey",
+   "FIELD4": "0",
+   "FIELD5": "2fa658e0-45700c69",
+   "FIELD6": "(none)",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"groff-base\"\t{\"installed\"",
+   "FIELD2": "1451342793",
+   "FIELD3": "groff-base",
+   "FIELD4": "3453962",
+   "FIELD5": "1.22.2-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-parent\"\t{\"installed\"",
+   "FIELD2": "1471370201",
+   "FIELD3": "perl-parent",
+   "FIELD4": "8141",
+   "FIELD5": "0.225-244.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libgomp\"\t{\"installed\"",
+   "FIELD2": "1451342794",
+   "FIELD3": "libgomp",
+   "FIELD4": "150174",
+   "FIELD5": "4.8.3-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-podlators\"\t{\"installed\"",
+   "FIELD2": "1471370202",
+   "FIELD3": "perl-podlators",
+   "FIELD4": "287679",
+   "FIELD5": "2.5.1-3.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"xz\"\t{\"installed\"",
+   "FIELD2": "1451342795",
+   "FIELD3": "xz",
+   "FIELD4": "688465",
+   "FIELD5": "5.1.2-9alpha.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Pod-Escapes\"\t{\"installed\"",
+   "FIELD2": "1471370202",
+   "FIELD3": "perl-Pod-Escapes",
+   "FIELD4": "21091",
+   "FIELD5": "1.04-286.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libnfnetlink\"\t{\"installed\"",
+   "FIELD2": "1451342795",
+   "FIELD3": "libnfnetlink",
+   "FIELD4": "47123",
+   "FIELD5": "1.0.1-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Encode\"\t{\"installed\"",
+   "FIELD2": "1471370203",
+   "FIELD3": "perl-Encode",
+   "FIELD4": "10176358",
+   "FIELD5": "2.51-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"newt\"\t{\"installed\"",
+   "FIELD2": "1451342796",
+   "FIELD3": "newt",
+   "FIELD4": "185204",
+   "FIELD5": "0.52.15-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-libs\"\t{\"installed\"",
+   "FIELD2": "1471370203",
+   "FIELD3": "perl-libs",
+   "FIELD4": "1647344",
+   "FIELD5": "5.16.3-286.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libdaemon\"\t{\"installed\"",
+   "FIELD2": "1451342796",
+   "FIELD3": "libdaemon",
+   "FIELD4": "62045",
+   "FIELD5": "0.14-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Storable\"\t{\"installed\"",
+   "FIELD2": "1471370204",
+   "FIELD3": "perl-Storable",
+   "FIELD4": "181031",
+   "FIELD5": "2.45-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gdbm\"\t{\"installed\"",
+   "FIELD2": "1451342796",
+   "FIELD3": "gdbm",
+   "FIELD4": "184314",
+   "FIELD5": "1.10-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-constant\"\t{\"installed\"",
+   "FIELD2": "1471370204",
+   "FIELD3": "perl-constant",
+   "FIELD4": "26364",
+   "FIELD5": "1.27-2.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pciutils-libs\"\t{\"installed\"",
+   "FIELD2": "1451342797",
+   "FIELD3": "pciutils-libs",
+   "FIELD4": "72459",
+   "FIELD5": "3.2.1-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Socket\"\t{\"installed\"",
+   "FIELD2": "1471370204",
+   "FIELD3": "perl-Socket",
+   "FIELD4": "114497",
+   "FIELD5": "2.010-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libtasn1\"\t{\"installed\"",
+   "FIELD2": "1451342797",
+   "FIELD3": "libtasn1",
+   "FIELD4": "423170",
+   "FIELD5": "3.8-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Time-HiRes\"\t{\"installed\"",
+   "FIELD2": "1471370205",
+   "FIELD3": "perl-Time-HiRes",
+   "FIELD4": "94069",
+   "FIELD5": "1.9725-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"ca-certificates\"\t{\"installed\"",
+   "FIELD2": "1451342797",
+   "FIELD3": "ca-certificates",
+   "FIELD4": "1028949",
+   "FIELD5": "2014.1.98-72.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Scalar-List-Utils\"\t{\"installed\"",
+   "FIELD2": "1471370205",
+   "FIELD3": "perl-Scalar-List-Utils",
+   "FIELD4": "67994",
+   "FIELD5": "1.27-248.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"less\"\t{\"installed\"",
+   "FIELD2": "1451342799",
+   "FIELD3": "less",
+   "FIELD4": "215384",
+   "FIELD5": "458-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-File-Path\"\t{\"installed\"",
+   "FIELD2": "1471370205",
+   "FIELD3": "perl-File-Path",
+   "FIELD4": "50067",
+   "FIELD5": "2.09-2.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"nettle\"\t{\"installed\"",
+   "FIELD2": "1451342800",
+   "FIELD3": "nettle",
+   "FIELD4": "764914",
+   "FIELD5": "2.7.1-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-threads\"\t{\"installed\"",
+   "FIELD2": "1471370205",
+   "FIELD3": "perl-threads",
+   "FIELD4": "98615",
+   "FIELD5": "1.87-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"acl\"\t{\"installed\"",
+   "FIELD2": "1451342800",
+   "FIELD3": "acl",
+   "FIELD4": "201066",
+   "FIELD5": "2.2.51-12.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Pod-Simple\"\t{\"installed\"",
+   "FIELD2": "1471370206",
+   "FIELD3": "perl-Pod-Simple",
+   "FIELD4": "538320",
+   "FIELD5": "3.28-4.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"elfutils-libs\"\t{\"installed\"",
+   "FIELD2": "1451342801",
+   "FIELD3": "elfutils-libs",
+   "FIELD4": "686887",
+   "FIELD5": "0.160-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl\"\t{\"installed\"",
+   "FIELD2": "1471370210",
+   "FIELD3": "perl",
+   "FIELD4": "23549739",
+   "FIELD5": "5.16.3-286.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gsettings-desktop-schemas\"\t{\"installed\"",
+   "FIELD2": "1451342802",
+   "FIELD3": "gsettings-desktop-schemas",
+   "FIELD4": "2864176",
+   "FIELD5": "3.8.2-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"vim-common\"\t{\"installed\"",
+   "FIELD2": "1471370215",
+   "FIELD3": "vim-common",
+   "FIELD4": "22146048",
+   "FIELD5": "7.4.160-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libss\"\t{\"installed\"",
+   "FIELD2": "1451342802",
+   "FIELD3": "libss",
+   "FIELD4": "73001",
+   "FIELD5": "1.42.9-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"vim-enhanced\"\t{\"installed\"",
+   "FIELD2": "1471370216",
+   "FIELD3": "vim-enhanced",
+   "FIELD4": "2292058",
+   "FIELD5": "7.4.160-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pinentry\"\t{\"installed\"",
+   "FIELD2": "1451342802",
+   "FIELD3": "pinentry",
+   "FIELD4": "159532",
+   "FIELD5": "0.8.1-14.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libogg\"\t{\"installed\"",
+   "FIELD2": "1471372042",
+   "FIELD3": "libogg",
+   "FIELD4": "35628",
+   "FIELD5": "1.3.0-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"make\"\t{\"installed\"",
+   "FIELD2": "1451342803",
+   "FIELD3": "make",
+   "FIELD4": "1160644",
+   "FIELD5": "3.82-21.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"cups-libs\"\t{\"installed\"",
+   "FIELD2": "1471372042",
+   "FIELD3": "cups-libs",
+   "FIELD4": "734071",
+   "FIELD5": "1.6.3-22.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"freetype\"\t{\"installed\"",
+   "FIELD2": "1451342804",
+   "FIELD3": "freetype",
+   "FIELD4": "894515",
+   "FIELD5": "2.4.11-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"systemd-libs\"\t{\"installed\"",
+   "FIELD2": "1471372043",
+   "FIELD3": "systemd-libs",
+   "FIELD4": "1078992",
+   "FIELD5": "219-19.el7_2.12",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"ncurses\"\t{\"installed\"",
+   "FIELD2": "1451342804",
+   "FIELD3": "ncurses",
+   "FIELD4": "439274",
+   "FIELD5": "5.9-13.20130511.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"dracut\"\t{\"installed\"",
+   "FIELD2": "1471372047",
+   "FIELD3": "dracut",
+   "FIELD4": "877598",
+   "FIELD5": "033-360.el7_2.1",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libproxy\"\t{\"installed\"",
+   "FIELD2": "1451342804",
+   "FIELD3": "libproxy",
+   "FIELD4": "163998",
+   "FIELD5": "0.4.11-6.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libSM\"\t{\"installed\"",
+   "FIELD2": "1471372047",
+   "FIELD3": "libSM",
+   "FIELD4": "81554",
+   "FIELD5": "1.2.2-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libmnl\"\t{\"installed\"",
+   "FIELD2": "1451342805",
+   "FIELD3": "libmnl",
+   "FIELD4": "51847",
+   "FIELD5": "1.0.3-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"atk\"\t{\"installed\"",
+   "FIELD2": "1471372048",
+   "FIELD3": "atk",
+   "FIELD4": "1212389",
+   "FIELD5": "2.14.0-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iptables\"\t{\"installed\"",
+   "FIELD2": "1451342805",
+   "FIELD3": "iptables",
+   "FIELD4": "1541839",
+   "FIELD5": "1.4.21-13.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXfont\"\t{\"installed\"",
+   "FIELD2": "1471372048",
+   "FIELD3": "libXfont",
+   "FIELD4": "341493",
+   "FIELD5": "1.5.1-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libnl\"\t{\"installed\"",
+   "FIELD2": "1451342806",
+   "FIELD3": "libnl",
+   "FIELD4": "373598",
+   "FIELD5": "1.1.4-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"mesa-libgbm\"\t{\"installed\"",
+   "FIELD2": "1471372049",
+   "FIELD3": "mesa-libgbm",
+   "FIELD4": "75125",
+   "FIELD5": "10.6.5-3.20150824.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libsemanage\"\t{\"installed\"",
+   "FIELD2": "1451342806",
+   "FIELD3": "libsemanage",
+   "FIELD4": "223193",
+   "FIELD5": "2.1.10-16.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libvorbis\"\t{\"installed\"",
+   "FIELD2": "1471372049",
+   "FIELD3": "libvorbis",
+   "FIELD4": "3171614",
+   "FIELD5": "1.3.3-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libssh2\"\t{\"installed\"",
+   "FIELD2": "1451342807",
+   "FIELD3": "libssh2",
+   "FIELD4": "341766",
+   "FIELD5": "1.4.3-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libthai\"\t{\"installed\"",
+   "FIELD2": "1471372050",
+   "FIELD3": "libthai",
+   "FIELD4": "704340",
+   "FIELD5": "0.1.14-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"openssl-libs\"\t{\"installed\"",
+   "FIELD2": "1451342808",
+   "FIELD3": "openssl-libs",
+   "FIELD4": "2679716",
+   "FIELD5": "1.0.1e-42.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libtiff\"\t{\"installed\"",
+   "FIELD2": "1471372050",
+   "FIELD3": "libtiff",
+   "FIELD4": "494329",
+   "FIELD5": "4.0.3-25.el7_2",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"curl\"\t{\"installed\"",
+   "FIELD2": "1451342808",
+   "FIELD3": "curl",
+   "FIELD4": "535105",
+   "FIELD5": "7.29.0-19.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"graphite2\"\t{\"installed\"",
+   "FIELD2": "1471372050",
+   "FIELD3": "graphite2",
+   "FIELD4": "247935",
+   "FIELD5": "1.3.6-1.el7_2",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"cracklib\"\t{\"installed\"",
+   "FIELD2": "1451342809",
+   "FIELD3": "cracklib",
+   "FIELD4": "209610",
+   "FIELD5": "2.9.0-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"psmisc\"\t{\"installed\"",
+   "FIELD2": "1471372051",
+   "FIELD3": "psmisc",
+   "FIELD4": "490672",
+   "FIELD5": "22.20-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"rpm-libs\"\t{\"installed\"",
+   "FIELD2": "1451342811",
+   "FIELD3": "rpm-libs",
+   "FIELD4": "607080",
+   "FIELD5": "4.11.1-25.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXau\"\t{\"installed\"",
+   "FIELD2": "1471372052",
+   "FIELD3": "libXau",
+   "FIELD4": "55529",
+   "FIELD5": "1.0.8-2.1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"nss-tools\"\t{\"installed\"",
+   "FIELD2": "1451342812",
+   "FIELD3": "nss-tools",
+   "FIELD4": "1902168",
+   "FIELD5": "3.16.2.3-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libxshmfence\"\t{\"installed\"",
+   "FIELD2": "1471372052",
+   "FIELD3": "libxshmfence",
+   "FIELD4": "6976",
+   "FIELD5": "1.2-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libpwquality\"\t{\"installed\"",
+   "FIELD2": "1451342813",
+   "FIELD3": "libpwquality",
+   "FIELD4": "332389",
+   "FIELD5": "1.2.3-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"coreutils\"\t{\"installed\"",
+   "FIELD2": "1451342816",
+   "FIELD3": "coreutils",
+   "FIELD4": "14567476",
+   "FIELD5": "8.22-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"shadow-utils\"\t{\"installed\"",
+   "FIELD2": "1451342818",
+   "FIELD3": "shadow-utils",
+   "FIELD4": "3513792",
+   "FIELD5": "4.1.5.1-18.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"rpm\"\t{\"installed\"",
+   "FIELD2": "1451342819",
+   "FIELD3": "rpm",
+   "FIELD4": "2594638",
+   "FIELD5": "4.11.1-25.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libuser\"\t{\"installed\"",
+   "FIELD2": "1451342820",
+   "FIELD3": "libuser",
+   "FIELD4": "1953848",
+   "FIELD5": "0.60-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"util-linux\"\t{\"installed\"",
+   "FIELD2": "1451342821",
+   "FIELD3": "util-linux",
+   "FIELD4": "7945926",
+   "FIELD5": "2.23.2-21.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-libs\"\t{\"installed\"",
+   "FIELD2": "1451342827",
+   "FIELD3": "python-libs",
+   "FIELD4": "24556334",
+   "FIELD5": "2.7.5-16.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"dbus-python\"\t{\"installed\"",
+   "FIELD2": "1451342828",
+   "FIELD3": "dbus-python",
+   "FIELD4": "848122",
+   "FIELD5": "1.1.1-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-dateutil\"\t{\"installed\"",
+   "FIELD2": "1451342828",
+   "FIELD3": "python-dateutil",
+   "FIELD4": "351526",
+   "FIELD5": "1.5-7.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"newt-python\"\t{\"installed\"",
+   "FIELD2": "1451342829",
+   "FIELD3": "newt-python",
+   "FIELD4": "116916",
+   "FIELD5": "0.52.15-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"policycoreutils\"\t{\"installed\"",
+   "FIELD2": "1451342830",
+   "FIELD3": "policycoreutils",
+   "FIELD4": "4896582",
+   "FIELD5": "2.2.5-15.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gettext\"\t{\"installed\"",
+   "FIELD2": "1451342832",
+   "FIELD3": "gettext",
+   "FIELD4": "4267490",
+   "FIELD5": "0.18.2.1-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-ethtool\"\t{\"installed\"",
+   "FIELD2": "1451342832",
+   "FIELD3": "python-ethtool",
+   "FIELD4": "76163",
+   "FIELD5": "0.8-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"dhcp-libs\"\t{\"installed\"",
+   "FIELD2": "1451342833",
+   "FIELD3": "dhcp-libs",
+   "FIELD4": "149048",
+   "FIELD5": "4.2.5-36.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"procps-ng\"\t{\"installed\"",
+   "FIELD2": "1451342842",
+   "FIELD3": "procps-ng",
+   "FIELD4": "758622",
+   "FIELD5": "3.3.10-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"selinux-policy\"\t{\"installed\"",
+   "FIELD2": "1451342843",
+   "FIELD3": "selinux-policy",
+   "FIELD4": "176",
+   "FIELD5": "3.13.1-23.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-configobj\"\t{\"installed\"",
+   "FIELD2": "1451342843",
+   "FIELD3": "python-configobj",
+   "FIELD4": "611855",
+   "FIELD5": "4.7.2-7.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pyOpenSSL\"\t{\"installed\"",
+   "FIELD2": "1451342844",
+   "FIELD3": "pyOpenSSL",
+   "FIELD4": "642973",
+   "FIELD5": "0.13.1-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-pycurl\"\t{\"installed\"",
+   "FIELD2": "1451342844",
+   "FIELD3": "python-pycurl",
+   "FIELD4": "241481",
+   "FIELD5": "7.19.0-17.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libselinux-python\"\t{\"installed\"",
+   "FIELD2": "1451342845",
+   "FIELD3": "libselinux-python",
+   "FIELD4": "734530",
+   "FIELD5": "2.2.2-6.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-slip-dbus\"\t{\"installed\"",
+   "FIELD2": "1451342846",
+   "FIELD3": "python-slip-dbus",
+   "FIELD4": "76437",
+   "FIELD5": "0.4.0-2.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-backports-ssl_match_hostname\"\t{\"installed\"",
+   "FIELD2": "1451342846",
+   "FIELD3": "python-backports-ssl_match_hostname",
+   "FIELD4": "14193",
+   "FIELD5": "3.4.0.2-4.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-pyudev\"\t{\"installed\"",
+   "FIELD2": "1451342847",
+   "FIELD3": "python-pyudev",
+   "FIELD4": "238322",
+   "FIELD5": "0.15-6.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libxml2-python\"\t{\"installed\"",
+   "FIELD2": "1451342847",
+   "FIELD3": "libxml2-python",
+   "FIELD4": "1503050",
+   "FIELD5": "2.9.1-5.el7_0.1",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"passwd\"\t{\"installed\"",
+   "FIELD2": "1451342848",
+   "FIELD3": "passwd",
+   "FIELD4": "429874",
+   "FIELD5": "0.79-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"grubby\"\t{\"installed\"",
+   "FIELD2": "1451342848",
+   "FIELD3": "grubby",
+   "FIELD4": "118683",
+   "FIELD5": "8.28-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"binutils\"\t{\"installed\"",
+   "FIELD2": "1451342852",
+   "FIELD3": "binutils",
+   "FIELD4": "21229359",
+   "FIELD5": "2.23.52.0.1-30.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"openssl\"\t{\"installed\"",
+   "FIELD2": "1451342853",
+   "FIELD3": "openssl",
+   "FIELD4": "1611133",
+   "FIELD5": "1.0.1e-42.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"logrotate\"\t{\"installed\"",
+   "FIELD2": "1451342854",
+   "FIELD3": "logrotate",
+   "FIELD4": "102451",
+   "FIELD5": "3.8.6-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"mariadb-libs\"\t{\"installed\"",
+   "FIELD2": "1451342854",
+   "FIELD3": "mariadb-libs",
+   "FIELD4": "4620735",
+   "FIELD5": "5.5.41-2.el7_0",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"fipscheck\"\t{\"installed\"",
+   "FIELD2": "1451342855",
+   "FIELD3": "fipscheck",
+   "FIELD4": "38815",
+   "FIELD5": "1.4.1-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"dmidecode\"\t{\"installed\"",
+   "FIELD2": "1451342856",
+   "FIELD3": "dmidecode",
+   "FIELD4": "202850",
+   "FIELD5": "2.12-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"qrencode-libs\"\t{\"installed\"",
+   "FIELD2": "1451342856",
+   "FIELD3": "qrencode-libs",
+   "FIELD4": "126732",
+   "FIELD5": "3.4.1-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"device-mapper-libs\"\t{\"installed\"",
+   "FIELD2": "1451342856",
+   "FIELD3": "device-mapper-libs",
+   "FIELD4": "300216",
+   "FIELD5": "1.02.93-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iputils\"\t{\"installed\"",
+   "FIELD2": "1451342859",
+   "FIELD3": "iputils",
+   "FIELD4": "368584",
+   "FIELD5": "20121221-6.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"NetworkManager-libnm\"\t{\"installed\"",
+   "FIELD2": "1451342860",
+   "FIELD3": "NetworkManager-libnm",
+   "FIELD4": "1475996",
+   "FIELD5": "1.0.0-14.git20150121.b4ea599c.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"polkit-pkla-compat\"\t{\"installed\"",
+   "FIELD2": "1451342861",
+   "FIELD3": "polkit-pkla-compat",
+   "FIELD4": "82409",
+   "FIELD5": "0.1-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"os-prober\"\t{\"installed\"",
+   "FIELD2": "1451342863",
+   "FIELD3": "os-prober",
+   "FIELD4": "98939",
+   "FIELD5": "1.58-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"cronie\"\t{\"installed\"",
+   "FIELD2": "1451342863",
+   "FIELD3": "cronie",
+   "FIELD4": "216204",
+   "FIELD5": "1.4.11-13.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"grub2-tools\"\t{\"installed\"",
+   "FIELD2": "1451342866",
+   "FIELD3": "grub2-tools",
+   "FIELD4": "20896105",
+   "FIELD5": "2.02-0.16.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libdrm\"\t{\"installed\"",
+   "FIELD2": "1451342867",
+   "FIELD3": "libdrm",
+   "FIELD4": "294979",
+   "FIELD5": "2.4.56-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"wpa_supplicant\"\t{\"installed\"",
+   "FIELD2": "1451342868",
+   "FIELD3": "wpa_supplicant",
+   "FIELD4": "3191433",
+   "FIELD5": "2.0-13.el7_0",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-gudev\"\t{\"installed\"",
+   "FIELD2": "1451342869",
+   "FIELD3": "python-gudev",
+   "FIELD4": "46348",
+   "FIELD5": "147.2-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gnutls\"\t{\"installed\"",
+   "FIELD2": "1451342870",
+   "FIELD3": "gnutls",
+   "FIELD4": "2057128",
+   "FIELD5": "3.3.8-12.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libsoup\"\t{\"installed\"",
+   "FIELD2": "1451342870",
+   "FIELD3": "libsoup",
+   "FIELD4": "1210815",
+   "FIELD5": "2.46.0-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iscsi-initiator-utils\"\t{\"installed\"",
+   "FIELD2": "1451342871",
+   "FIELD3": "iscsi-initiator-utils",
+   "FIELD4": "2473843",
+   "FIELD5": "6.2.0.873-29.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"alsa-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342873",
+   "FIELD3": "alsa-firmware",
+   "FIELD4": "9572469",
+   "FIELD5": "1.0.28-2.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"ebtables\"\t{\"installed\"",
+   "FIELD2": "1451342874",
+   "FIELD3": "ebtables",
+   "FIELD4": "350432",
+   "FIELD5": "2.0.10-13.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libestr\"\t{\"installed\"",
+   "FIELD2": "1451342874",
+   "FIELD3": "libestr",
+   "FIELD4": "44322",
+   "FIELD5": "0.1.9-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gnupg2\"\t{\"installed\"",
+   "FIELD2": "1451342876",
+   "FIELD3": "gnupg2",
+   "FIELD4": "6640072",
+   "FIELD5": "2.0.22-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"rpm-python\"\t{\"installed\"",
+   "FIELD2": "1451342876",
+   "FIELD3": "rpm-python",
+   "FIELD4": "143474",
+   "FIELD5": "4.11.1-25.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"redhat-support-lib-python\"\t{\"installed\"",
+   "FIELD2": "1451342877",
+   "FIELD3": "redhat-support-lib-python",
+   "FIELD4": "2085303",
+   "FIELD5": "0.9.7-0.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pygpgme\"\t{\"installed\"",
+   "FIELD2": "1451342878",
+   "FIELD3": "pygpgme",
+   "FIELD4": "197501",
+   "FIELD5": "0.3-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"rhn-client-tools\"\t{\"installed\"",
+   "FIELD2": "1451342880",
+   "FIELD3": "rhn-client-tools",
+   "FIELD4": "1779769",
+   "FIELD5": "2.0.2-6.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"yum-rhn-plugin\"\t{\"installed\"",
+   "FIELD2": "1451342880",
+   "FIELD3": "yum-rhn-plugin",
+   "FIELD4": "205942",
+   "FIELD5": "2.0.1-5.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"rhnsd\"\t{\"installed\"",
+   "FIELD2": "1451342880",
+   "FIELD3": "rhnsd",
+   "FIELD4": "100414",
+   "FIELD5": "5.0.13-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"plymouth\"\t{\"installed\"",
+   "FIELD2": "1451342882",
+   "FIELD3": "plymouth",
+   "FIELD4": "232693",
+   "FIELD5": "0.8.9-0.13.20140113.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libpipeline\"\t{\"installed\"",
+   "FIELD2": "1451342882",
+   "FIELD3": "libpipeline",
+   "FIELD4": "142521",
+   "FIELD5": "1.2.3-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"json-c\"\t{\"installed\"",
+   "FIELD2": "1451342883",
+   "FIELD3": "json-c",
+   "FIELD4": "65593",
+   "FIELD5": "0.11-4.el7_0",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libpcap\"\t{\"installed\"",
+   "FIELD2": "1451342883",
+   "FIELD3": "libpcap",
+   "FIELD4": "324774",
+   "FIELD5": "1.5.3-3.el7_0.1",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"jansson\"\t{\"installed\"",
+   "FIELD2": "1451342884",
+   "FIELD3": "jansson",
+   "FIELD4": "62727",
+   "FIELD5": "2.4-6.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libsndfile\"\t{\"installed\"",
+   "FIELD2": "1471372052",
+   "FIELD3": "libsndfile",
+   "FIELD4": "413441",
+   "FIELD5": "1.0.25-10.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libX11\"\t{\"installed\"",
+   "FIELD2": "1471372053",
+   "FIELD3": "libX11",
+   "FIELD4": "1325696",
+   "FIELD5": "1.6.3-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXrender\"\t{\"installed\"",
+   "FIELD2": "1471372053",
+   "FIELD3": "libXrender",
+   "FIELD4": "42875",
+   "FIELD5": "0.9.8-2.1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXi\"\t{\"installed\"",
+   "FIELD2": "1471372054",
+   "FIELD3": "libXi",
+   "FIELD4": "70003",
+   "FIELD5": "1.7.4-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXdamage\"\t{\"installed\"",
+   "FIELD2": "1471372054",
+   "FIELD3": "libXdamage",
+   "FIELD4": "29688",
+   "FIELD5": "1.1.4-4.1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXcomposite\"\t{\"installed\"",
+   "FIELD2": "1471372055",
+   "FIELD3": "libXcomposite",
+   "FIELD4": "35184",
+   "FIELD5": "0.4.4-4.1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXrandr\"\t{\"installed\"",
+   "FIELD2": "1471372055",
+   "FIELD3": "libXrandr",
+   "FIELD4": "44466",
+   "FIELD5": "1.4.2-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXxf86vm\"\t{\"installed\"",
+   "FIELD2": "1471372055",
+   "FIELD3": "libXxf86vm",
+   "FIELD4": "25664",
+   "FIELD5": "1.1.3-2.1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"giflib\"\t{\"installed\"",
+   "FIELD2": "1471372055",
+   "FIELD3": "giflib",
+   "FIELD4": "90132",
+   "FIELD5": "4.1.6-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"ttmkfdir\"\t{\"installed\"",
+   "FIELD2": "1471372056",
+   "FIELD3": "ttmkfdir",
+   "FIELD4": "105418",
+   "FIELD5": "3.0.9-42.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"javapackages-tools\"\t{\"installed\"",
+   "FIELD2": "1471372056",
+   "FIELD3": "javapackages-tools",
+   "FIELD4": "160160",
+   "FIELD5": "3.4.1-11.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pulseaudio-libs\"\t{\"installed\"",
+   "FIELD2": "1471372057",
+   "FIELD3": "pulseaudio-libs",
+   "FIELD4": "2908327",
+   "FIELD5": "6.0-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"fontpackages-filesystem\"\t{\"installed\"",
+   "FIELD2": "1471372057",
+   "FIELD3": "fontpackages-filesystem",
+   "FIELD4": "0",
+   "FIELD5": "1.44-8.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXft\"\t{\"installed\"",
+   "FIELD2": "1471372059",
+   "FIELD3": "libXft",
+   "FIELD4": "125941",
+   "FIELD5": "2.3.2-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pcsc-lite-libs\"\t{\"installed\"",
+   "FIELD2": "1471372060",
+   "FIELD3": "pcsc-lite-libs",
+   "FIELD4": "46604",
+   "FIELD5": "1.8.8-6.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"cairo\"\t{\"installed\"",
+   "FIELD2": "1471372061",
+   "FIELD3": "cairo",
+   "FIELD4": "1818641",
+   "FIELD5": "1.14.2-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gtk2\"\t{\"installed\"",
+   "FIELD2": "1471372062",
+   "FIELD3": "gtk2",
+   "FIELD4": "13474034",
+   "FIELD5": "2.24.28-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"java-1.7.0-openjdk\"\t{\"installed\"",
+   "FIELD2": "1471372063",
+   "FIELD3": "java-1.7.0-openjdk",
+   "FIELD4": "505085",
+   "FIELD5": "1.7.0.111-2.6.7.2.el7_2",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"initscripts\"\t{\"installed\"",
+   "FIELD2": "1471372071",
+   "FIELD3": "initscripts",
+   "FIELD4": "1493041",
+   "FIELD5": "9.49.30-1.el7_2.3",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"dracut-config-rescue\"\t{\"installed\"",
+   "FIELD2": "1471372071",
+   "FIELD3": "dracut-config-rescue",
+   "FIELD4": "4067",
+   "FIELD5": "033-360.el7_2.1",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libgudev1\"\t{\"installed\"",
+   "FIELD2": "1471372072",
+   "FIELD3": "libgudev1",
+   "FIELD4": "52080",
+   "FIELD5": "219-19.el7_2.12",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"kbd-misc\"\t{\"installed\"",
+   "FIELD2": "1451342886",
+   "FIELD3": "kbd-misc",
+   "FIELD4": "2307951",
+   "FIELD5": "1.15.5-11.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"redhat-release-server\"\t{\"installed\"",
+   "FIELD2": "1451342762",
+   "FIELD3": "redhat-release-server",
+   "FIELD4": "40364",
+   "FIELD5": "7.1-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"linux-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342899",
+   "FIELD3": "linux-firmware",
+   "FIELD4": "43966460",
+   "FIELD5": "20140911-0.1.git365e80c.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"basesystem\"\t{\"installed\"",
+   "FIELD2": "1451342765",
+   "FIELD3": "basesystem",
+   "FIELD4": "0",
+   "FIELD5": "10.0-7.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"dhclient\"\t{\"installed\"",
+   "FIELD2": "1451342901",
+   "FIELD3": "dhclient",
+   "FIELD4": "481923",
+   "FIELD5": "4.2.5-36.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"glibc\"\t{\"installed\"",
+   "FIELD2": "1451342775",
+   "FIELD3": "glibc",
+   "FIELD4": "13970105",
+   "FIELD5": "2.17-78.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"NetworkManager-team\"\t{\"installed\"",
+   "FIELD2": "1451342904",
+   "FIELD3": "NetworkManager-team",
+   "FIELD4": "32744",
+   "FIELD5": "1.0.0-14.git20150121.b4ea599c.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"bash\"\t{\"installed\"",
+   "FIELD2": "1451342778",
+   "FIELD3": "bash",
+   "FIELD4": "3663634",
+   "FIELD5": "4.2.46-12.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"Red_Hat_Enterprise_Linux-Release_Notes-7-en-US\"\t{\"installed\"",
+   "FIELD2": "1451342928",
+   "FIELD3": "Red_Hat_Enterprise_Linux-Release_Notes-7-en-US",
+   "FIELD4": "1513063",
+   "FIELD5": "1.0-9.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"zlib\"\t{\"installed\"",
+   "FIELD2": "1451342779",
+   "FIELD3": "zlib",
+   "FIELD4": "185678",
+   "FIELD5": "1.2.7-13.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"man-db\"\t{\"installed\"",
+   "FIELD2": "1451342930",
+   "FIELD3": "man-db",
+   "FIELD4": "1874220",
+   "FIELD5": "2.6.3-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"sed\"\t{\"installed\"",
+   "FIELD2": "1451342780",
+   "FIELD3": "sed",
+   "FIELD4": "601212",
+   "FIELD5": "4.2.2-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"subscription-manager\"\t{\"installed\"",
+   "FIELD2": "1451342933",
+   "FIELD3": "subscription-manager",
+   "FIELD4": "3384475",
+   "FIELD5": "1.13.22-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"dbus-libs\"\t{\"installed\"",
+   "FIELD2": "1451342781",
+   "FIELD3": "dbus-libs",
+   "FIELD4": "304544",
+   "FIELD5": "1.6.12-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"postfix\"\t{\"installed\"",
+   "FIELD2": "1451342936",
+   "FIELD3": "postfix",
+   "FIELD4": "12773459",
+   "FIELD5": "2.10.1-6.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libxml2\"\t{\"installed\"",
+   "FIELD2": "1451342782",
+   "FIELD3": "libxml2",
+   "FIELD4": "1705926",
+   "FIELD5": "2.9.1-5.el7_0.1",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"microcode_ctl\"\t{\"installed\"",
+   "FIELD2": "1451342939",
+   "FIELD3": "microcode_ctl",
+   "FIELD4": "660999",
+   "FIELD5": "2.1-10.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"readline\"\t{\"installed\"",
+   "FIELD2": "1451342784",
+   "FIELD3": "readline",
+   "FIELD4": "460408",
+   "FIELD5": "6.2-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"authconfig\"\t{\"installed\"",
+   "FIELD2": "1451342941",
+   "FIELD3": "authconfig",
+   "FIELD4": "2215055",
+   "FIELD5": "6.2.8-9.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"shared-mime-info\"\t{\"installed\"",
+   "FIELD2": "1451342786",
+   "FIELD3": "shared-mime-info",
+   "FIELD4": "4109283",
+   "FIELD5": "1.1-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"e2fsprogs\"\t{\"installed\"",
+   "FIELD2": "1451342946",
+   "FIELD3": "e2fsprogs",
+   "FIELD4": "2555495",
+   "FIELD5": "1.42.9-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libacl\"\t{\"installed\"",
+   "FIELD2": "1451342787",
+   "FIELD3": "libacl",
+   "FIELD4": "37056",
+   "FIELD5": "2.2.51-12.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libsysfs\"\t{\"installed\"",
+   "FIELD2": "1451342949",
+   "FIELD3": "libsysfs",
+   "FIELD4": "149365",
+   "FIELD5": "2.1.0-16.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libnl3\"\t{\"installed\"",
+   "FIELD2": "1451342788",
+   "FIELD3": "libnl3",
+   "FIELD4": "592072",
+   "FIELD5": "3.2.21-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"NetworkManager-config-server\"\t{\"installed\"",
+   "FIELD2": "1451342950",
+   "FIELD3": "NetworkManager-config-server",
+   "FIELD4": "1292",
+   "FIELD5": "1.0.0-14.git20150121.b4ea599c.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libcap-ng\"\t{\"installed\"",
+   "FIELD2": "1451342789",
+   "FIELD3": "libcap-ng",
+   "FIELD4": "46278",
+   "FIELD5": "0.7.3-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl1000-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342951",
+   "FIELD3": "iwl1000-firmware",
+   "FIELD4": "754501",
+   "FIELD5": "39.31.5.1-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"which\"\t{\"installed\"",
+   "FIELD2": "1451342790",
+   "FIELD3": "which",
+   "FIELD4": "76962",
+   "FIELD5": "2.20-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"ivtv-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342952",
+   "FIELD3": "ivtv-firmware",
+   "FIELD4": "857256",
+   "FIELD5": "20080701-26.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gmp\"\t{\"installed\"",
+   "FIELD2": "1451342791",
+   "FIELD3": "gmp",
+   "FIELD4": "652070",
+   "FIELD5": "6.0.0-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iwl3945-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342953",
+   "FIELD3": "iwl3945-firmware",
+   "FIELD4": "232025",
+   "FIELD5": "15.32.2.9-36.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libnl3-cli\"\t{\"installed\"",
+   "FIELD2": "1451342792",
+   "FIELD3": "libnl3-cli",
+   "FIELD4": "292374",
+   "FIELD5": "3.2.21-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gpg-pubkey\"\t{\"installed\"",
+   "FIELD2": "1471369897",
+   "FIELD3": "gpg-pubkey",
+   "FIELD4": "0",
+   "FIELD5": "fd431d51-4ae0493b",
+   "FIELD6": "(none)",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"e2fsprogs-libs\"\t{\"installed\"",
+   "FIELD2": "1451342793",
+   "FIELD3": "e2fsprogs-libs",
+   "FIELD4": "363537",
+   "FIELD5": "1.42.9-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-HTTP-Tiny\"\t{\"installed\"",
+   "FIELD2": "1471370201",
+   "FIELD3": "perl-HTTP-Tiny",
+   "FIELD4": "97207",
+   "FIELD5": "0.033-3.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"diffutils\"\t{\"installed\"",
+   "FIELD2": "1451342794",
+   "FIELD3": "diffutils",
+   "FIELD4": "1065161",
+   "FIELD5": "3.3-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Text-ParseWords\"\t{\"installed\"",
+   "FIELD2": "1471370202",
+   "FIELD3": "perl-Text-ParseWords",
+   "FIELD4": "16431",
+   "FIELD5": "3.29-4.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"slang\"\t{\"installed\"",
+   "FIELD2": "1451342795",
+   "FIELD3": "slang",
+   "FIELD4": "1881936",
+   "FIELD5": "2.2.4-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-macros\"\t{\"installed\"",
+   "FIELD2": "1471370204",
+   "FIELD3": "perl-macros",
+   "FIELD4": "5134",
+   "FIELD5": "5.16.3-286.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"ethtool\"\t{\"installed\"",
+   "FIELD2": "1451342796",
+   "FIELD3": "ethtool",
+   "FIELD4": "313775",
+   "FIELD5": "3.15-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Time-Local\"\t{\"installed\"",
+   "FIELD2": "1471370204",
+   "FIELD3": "perl-Time-Local",
+   "FIELD4": "44062",
+   "FIELD5": "1.2300-2.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"keyutils-libs\"\t{\"installed\"",
+   "FIELD2": "1451342797",
+   "FIELD3": "keyutils-libs",
+   "FIELD4": "42138",
+   "FIELD5": "1.5.8-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-PathTools\"\t{\"installed\"",
+   "FIELD2": "1471370205",
+   "FIELD3": "perl-PathTools",
+   "FIELD4": "174131",
+   "FIELD5": "3.40-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gettext-libs\"\t{\"installed\"",
+   "FIELD2": "1451342799",
+   "FIELD3": "gettext-libs",
+   "FIELD4": "1313568",
+   "FIELD5": "0.18.2.1-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-threads-shared\"\t{\"installed\"",
+   "FIELD2": "1471370205",
+   "FIELD3": "perl-threads-shared",
+   "FIELD4": "73972",
+   "FIELD5": "1.43-6.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libxslt\"\t{\"installed\"",
+   "FIELD2": "1451342800",
+   "FIELD3": "libxslt",
+   "FIELD4": "497582",
+   "FIELD5": "1.1.28-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"perl-Getopt-Long\"\t{\"installed\"",
+   "FIELD2": "1471370206",
+   "FIELD3": "perl-Getopt-Long",
+   "FIELD4": "134846",
+   "FIELD5": "2.40-2.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gobject-introspection\"\t{\"installed\"",
+   "FIELD2": "1451342801",
+   "FIELD3": "gobject-introspection",
+   "FIELD4": "779961",
+   "FIELD5": "1.36.0-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gpm-libs\"\t{\"installed\"",
+   "FIELD2": "1471370215",
+   "FIELD3": "gpm-libs",
+   "FIELD4": "27736",
+   "FIELD5": "1.20.7-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"avahi-libs\"\t{\"installed\"",
+   "FIELD2": "1451342802",
+   "FIELD3": "avahi-libs",
+   "FIELD4": "123776",
+   "FIELD5": "0.6.31-14.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libICE\"\t{\"installed\"",
+   "FIELD2": "1471372042",
+   "FIELD3": "libICE",
+   "FIELD4": "152165",
+   "FIELD5": "1.0.9-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libselinux-utils\"\t{\"installed\"",
+   "FIELD2": "1451342803",
+   "FIELD3": "libselinux-utils",
+   "FIELD4": "114094",
+   "FIELD5": "2.2.2-6.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"systemd\"\t{\"installed\"",
+   "FIELD2": "1471372045",
+   "FIELD3": "systemd",
+   "FIELD4": "22313872",
+   "FIELD5": "219-19.el7_2.12",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libmodman\"\t{\"installed\"",
+   "FIELD2": "1451342804",
+   "FIELD3": "libmodman",
+   "FIELD4": "58871",
+   "FIELD5": "2.0.1-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"mesa-libglapi\"\t{\"installed\"",
+   "FIELD2": "1471372048",
+   "FIELD3": "mesa-libglapi",
+   "FIELD4": "191296",
+   "FIELD5": "10.6.5-3.20150824.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libnetfilter_conntrack\"\t{\"installed\"",
+   "FIELD2": "1451342805",
+   "FIELD3": "libnetfilter_conntrack",
+   "FIELD4": "139238",
+   "FIELD5": "1.0.4-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"xorg-x11-font-utils\"\t{\"installed\"",
+   "FIELD2": "1471372049",
+   "FIELD3": "xorg-x11-font-utils",
+   "FIELD4": "327243",
+   "FIELD5": "7.5-20.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"ustr\"\t{\"installed\"",
+   "FIELD2": "1451342806",
+   "FIELD3": "ustr",
+   "FIELD4": "285943",
+   "FIELD5": "1.0.4-16.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"jasper-libs\"\t{\"installed\"",
+   "FIELD2": "1471372049",
+   "FIELD3": "jasper-libs",
+   "FIELD4": "350618",
+   "FIELD5": "1.900.1-29.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"krb5-libs\"\t{\"installed\"",
+   "FIELD2": "1451342807",
+   "FIELD3": "krb5-libs",
+   "FIELD4": "2267294",
+   "FIELD5": "1.12.2-14.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"lksctp-tools\"\t{\"installed\"",
+   "FIELD2": "1471372050",
+   "FIELD3": "lksctp-tools",
+   "FIELD4": "232069",
+   "FIELD5": "1.0.13-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gzip\"\t{\"installed\"",
+   "FIELD2": "1451342809",
+   "FIELD3": "gzip",
+   "FIELD4": "249992",
+   "FIELD5": "1.5-7.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"GConf2\"\t{\"installed\"",
+   "FIELD2": "1471372051",
+   "FIELD3": "GConf2",
+   "FIELD4": "6605076",
+   "FIELD5": "3.2.6-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libmount\"\t{\"installed\"",
+   "FIELD2": "1451342812",
+   "FIELD3": "libmount",
+   "FIELD4": "261109",
+   "FIELD5": "2.23.2-21.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"gsm\"\t{\"installed\"",
+   "FIELD2": "1471372052",
+   "FIELD3": "gsm",
+   "FIELD4": "56172",
+   "FIELD5": "1.0.13-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXext\"\t{\"installed\"",
+   "FIELD2": "1471372053",
+   "FIELD3": "libXext",
+   "FIELD4": "87102",
+   "FIELD5": "1.3.3-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libblkid\"\t{\"installed\"",
+   "FIELD2": "1451342818",
+   "FIELD3": "libblkid",
+   "FIELD4": "248933",
+   "FIELD5": "2.23.2-21.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXtst\"\t{\"installed\"",
+   "FIELD2": "1471372054",
+   "FIELD3": "libXtst",
+   "FIELD4": "29930",
+   "FIELD5": "1.2.2-2.1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libutempter\"\t{\"installed\"",
+   "FIELD2": "1451342820",
+   "FIELD3": "libutempter",
+   "FIELD4": "49749",
+   "FIELD5": "1.1.6-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"libXcursor\"\t{\"installed\"",
+   "FIELD2": "1471372055",
+   "FIELD3": "libXcursor",
+   "FIELD4": "46958",
+   "FIELD5": "1.1.14-2.1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python\"\t{\"installed\"",
+   "FIELD2": "1451342828",
+   "FIELD3": "python",
+   "FIELD4": "80835",
+   "FIELD5": "2.7.5-16.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"mesa-libGL\"\t{\"installed\"",
+   "FIELD2": "1471372055",
+   "FIELD3": "mesa-libGL",
+   "FIELD4": "657925",
+   "FIELD5": "10.6.5-3.20150824.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-decorator\"\t{\"installed\"",
+   "FIELD2": "1451342829",
+   "FIELD3": "python-decorator",
+   "FIELD4": "72291",
+   "FIELD5": "3.4.0-3.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-javapackages\"\t{\"installed\"",
+   "FIELD2": "1471372056",
+   "FIELD3": "python-javapackages",
+   "FIELD4": "66505",
+   "FIELD5": "3.4.1-11.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-lxml\"\t{\"installed\"",
+   "FIELD2": "1451342831",
+   "FIELD3": "python-lxml",
+   "FIELD4": "2722697",
+   "FIELD5": "3.2.1-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"hicolor-icon-theme\"\t{\"installed\"",
+   "FIELD2": "1471372057",
+   "FIELD3": "hicolor-icon-theme",
+   "FIELD4": "45788",
+   "FIELD5": "0.12-7.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pygobject3-base\"\t{\"installed\"",
+   "FIELD2": "1451342833",
+   "FIELD3": "pygobject3-base",
+   "FIELD4": "1146282",
+   "FIELD5": "3.8.2-6.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"xorg-x11-fonts-Type1\"\t{\"installed\"",
+   "FIELD2": "1471372059",
+   "FIELD3": "xorg-x11-fonts-Type1",
+   "FIELD4": "883992",
+   "FIELD5": "7.5-9.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"dhcp-common\"\t{\"installed\"",
+   "FIELD2": "1451342843",
+   "FIELD3": "dhcp-common",
+   "FIELD4": "245529",
+   "FIELD5": "4.2.5-36.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pango\"\t{\"installed\"",
+   "FIELD2": "1471372061",
+   "FIELD3": "pango",
+   "FIELD4": "803539",
+   "FIELD5": "1.36.8-2.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pyliblzma\"\t{\"installed\"",
+   "FIELD2": "1451342844",
+   "FIELD3": "pyliblzma",
+   "FIELD4": "190112",
+   "FIELD5": "0.5.3-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"java-1.7.0-openjdk-headless\"\t{\"installed\"",
+   "FIELD2": "1471372069",
+   "FIELD3": "java-1.7.0-openjdk-headless",
+   "FIELD4": "95551022",
+   "FIELD5": "1.7.0.111-2.6.7.2.el7_2",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-urlgrabber\"\t{\"installed\"",
+   "FIELD2": "1451342845",
+   "FIELD3": "python-urlgrabber",
+   "FIELD4": "496639",
+   "FIELD5": "3.10-6.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"systemd-sysv\"\t{\"installed\"",
+   "FIELD2": "1471372072",
+   "FIELD3": "systemd-sysv",
+   "FIELD4": "3979",
+   "FIELD5": "219-19.el7_2.12",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-backports\"\t{\"installed\"",
+   "FIELD2": "1451342846",
+   "FIELD3": "python-backports",
+   "FIELD4": "638",
+   "FIELD5": "1.0-8.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pyxattr\"\t{\"installed\"",
+   "FIELD2": "1451342847",
+   "FIELD3": "pyxattr",
+   "FIELD4": "63304",
+   "FIELD5": "0.5.1-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"usermode\"\t{\"installed\"",
+   "FIELD2": "1451342848",
+   "FIELD3": "usermode",
+   "FIELD4": "838723",
+   "FIELD5": "1.111-5.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"plymouth-core-libs\"\t{\"installed\"",
+   "FIELD2": "1451342854",
+   "FIELD3": "plymouth-core-libs",
+   "FIELD4": "226864",
+   "FIELD5": "0.8.9-0.13.20140113.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"openssh\"\t{\"installed\"",
+   "FIELD2": "1451342855",
+   "FIELD3": "openssh",
+   "FIELD4": "1445930",
+   "FIELD5": "6.6.1p1-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"device-mapper\"\t{\"installed\"",
+   "FIELD2": "1451342856",
+   "FIELD3": "device-mapper",
+   "FIELD4": "193235",
+   "FIELD5": "1.02.93-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"dbus\"\t{\"installed\"",
+   "FIELD2": "1451342859",
+   "FIELD3": "dbus",
+   "FIELD4": "874627",
+   "FIELD5": "1.6.12-11.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"hwdata\"\t{\"installed\"",
+   "FIELD2": "1451342863",
+   "FIELD3": "hwdata",
+   "FIELD4": "10491816",
+   "FIELD5": "0.252-7.5.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"crontabs\"\t{\"installed\"",
+   "FIELD2": "1451342864",
+   "FIELD3": "crontabs",
+   "FIELD4": "3700",
+   "FIELD5": "1.11-6.20121102git.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-hwdata\"\t{\"installed\"",
+   "FIELD2": "1451342867",
+   "FIELD3": "python-hwdata",
+   "FIELD4": "175727",
+   "FIELD5": "1.7.3-4.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"trousers\"\t{\"installed\"",
+   "FIELD2": "1451342869",
+   "FIELD3": "trousers",
+   "FIELD4": "826418",
+   "FIELD5": "0.3.11.2-3.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"iscsi-initiator-utils-iscsiuio\"\t{\"installed\"",
+   "FIELD2": "1451342870",
+   "FIELD3": "iscsi-initiator-utils-iscsiuio",
+   "FIELD4": "163152",
+   "FIELD5": "6.2.0.873-29.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"alsa-tools-firmware\"\t{\"installed\"",
+   "FIELD2": "1451342873",
+   "FIELD3": "alsa-tools-firmware",
+   "FIELD4": "86339",
+   "FIELD5": "1.0.27-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"pth\"\t{\"installed\"",
+   "FIELD2": "1451342874",
+   "FIELD3": "pth",
+   "FIELD4": "267851",
+   "FIELD5": "2.0.7-22.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"python-rhsm\"\t{\"installed\"",
+   "FIELD2": "1451342876",
+   "FIELD3": "python-rhsm",
+   "FIELD4": "340856",
+   "FIELD5": "1.13.10-1.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"yum\"\t{\"installed\"",
+   "FIELD2": "1451342879",
+   "FIELD3": "yum",
+   "FIELD4": "5745863",
+   "FIELD5": "3.4.3-125.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"rhn-check\"\t{\"installed\"",
+   "FIELD2": "1451342880",
+   "FIELD3": "rhn-check",
+   "FIELD4": "39224",
+   "FIELD5": "2.0.2-6.el7",
+   "FIELD6": "noarch",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"plymouth-scripts\"\t{\"installed\"",
+   "FIELD2": "1451342881",
+   "FIELD3": "plymouth-scripts",
+   "FIELD4": "22120",
+   "FIELD5": "0.8.9-0.13.20140113.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"numactl-libs\"\t{\"installed\"",
+   "FIELD2": "1451342882",
+   "FIELD3": "numactl-libs",
+   "FIELD4": "50712",
+   "FIELD5": "2.0.9-4.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ },
+ {
+   "FIELD1": "package\t\"ppp\"\t{\"installed\"",
+   "FIELD2": "1451342884",
+   "FIELD3": "ppp",
+   "FIELD4": "872624",
+   "FIELD5": "2.4.5-33.el7",
+   "FIELD6": "x86_64",
+   "FIELD7": "",
+   "FIELD8": ""
+ }
+]
