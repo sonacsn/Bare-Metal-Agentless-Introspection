@@ -62,4 +62,35 @@ To implement our system, we were required to modify M2 services. We extended the
   * We modified the Picasso service to add RESTful support to the command. This is accessed by both the CLI and the UI.
   * We implemented the functionality to Map and Mount an image from Ceph to another system in Einstein. We also integrated the Agentless System Crawler and our Vulnerability Detection module with Einstein service.
 
-# Mihir Add Performance analysis also here. Refer professor's sample read me.
+### PERFORMANCE ANALYSIS:
+
+Performance analysis was conducted on a 10G rhel image which is an intel(r) xeon(r) cpu e5-2650 v2 having 32 hyper threaded cores. 
+sysbench was installed for running mysql work load for threads 1,2,4,8,16,32 on the bare metal nodes. 
+The X axis represents Number of Threads 
+The Y axis represents Load parameter(Time or OLTP transactions)
+ 
+#### Goals of Performance Analysis:
+1. We wanted to measure the overhead of our service on applications running on the node
+2. We wanted to measure the response time of our service
+
+*_Native Performance (Red Line)_*:
+1. The redline in figure 1 and 2 shows the native performance it means we are continuously taking snapshots of the image without any work load running on the node
+2. The redline in figure 3 and 4 shows the native performance it means we are running workload on the node when no snapshot is taken
+
+*_Performance under Load_*:
+1. The Green bars in figure 1 and 2 represents the time over head incurred in taking continuous snap shots while workload(applications) is running on the node.
+2. The Green line in figure 3 and 4 represents the OLTP over head incurred by the workload(applications) running on the node due to continuous snapshotting. 
+
+### *Case 1: Data and workload running on the same net-mounted disk*
+ 
+#### Conclusion of 1st Case:
+We observed that for Deep snapshotting there is an average overhead of 5-6 secs, whereas in the case of Light snapshotting, there is almost no overhead incurred (cases where load performance is better than native performance is owing to noise).
+We observed that for both Deep snapshotting as well as for light snapshotting the OLTP performance degrades by 50%, which tells us that the performance of the applications running on the node gets affected owing to continuous snapshotting. 
+
+### *CASE: 2: Data and workload running on different disks (Data center Environment)*
+
+ 
+##Conclusion of 2nd  Case:
+We observed that for Deep snapshotting there is an average overhead of about 1.2secs , whereas in the case of Light snapshotting, there is almost no overhead incurred running applications on the node are not inducing much overhead in the response time as we can see that red line and green line in figure 1 and 2 are very close to each other, *which is significantly better than the time overhead observed in case 1*
+We observed that for both Deep snapshotting as well as for light snapshotting the OLTP performance degrades less than 5%, which tell us that continuous snapshotting of the node is incurring minimal performance overhead on the applications running on the node as we have observed very less change in OLTP Transactions
+
