@@ -1,0 +1,25 @@
+{
+  "name": "bmi",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chart.js": "^2.7.2",
+    "jquery": "^3.3.1",
+    "python-shell": "^0.5.0",
+    "qs": "^6.5.1",
+    "react": "^16.2.0",
+    "react-chartjs": "^1.2.0",
+    "react-chartjs-2": "^2.7.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "1.1.1",
+    "react-svg-piechart": "^2.0.3",
+    "styled-components": "^3.2.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
