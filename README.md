@@ -98,13 +98,13 @@ We observed that for both Deep snapshotting as well as for light snapshotting th
 
 ### Challenges that were expected and were solved
 #### Challenge 1.Debugging discrepancies in M2 and Ceph:
-#### Why:Debugging was challenging because of the lack of documentation owing to an Open Source Project
-#### Solution: Regressively Reading about ceph, taking help from mentor enabled us to overcome errors like Snapshot Already exists, Node Busy(could have clones), snapshot not found
+Why:Debugging was challenging because of the lack of documentation owing to an Open Source Project
+ Solution: Regressively Reading about ceph, taking help from mentor enabled us to overcome errors like Snapshot Already exists, Node Busy(could have clones), snapshot not found
 
-#### Challenge 2.Preparing and Setting up golden images
+#### *Challenge 2.Preparing and Setting up golden images
 Why: Nodes were a very limited resource that use to be allocated to us for a timeslot of 6 hours
 Solution: Wrote scripts that automated installing workload (mysql) and sysbench for benchmarking.
 
-#### * *Sending REST requests over a SSH server via tunneling
+#### *Sending REST requests over a SSH server via tunneling
 Why: Lack of prior experience and understanding of M2 architecture 
 Solution: Learning about M2's architecture  
