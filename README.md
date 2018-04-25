@@ -108,8 +108,8 @@ Why: Nodes were a very limited resource that use to be allocated to us for a tim
 Solution: Wrote scripts that automated installing workload (mysql) and sysbench for benchmarking.
 
 #### Challenge 3.Sending REST requests over a SSH server via tunneling
-Why: Lack of prior experience and understanding of M2 architecture 
-Solution: Learning about M2's architecture  
+Why: Lack of prior experience and understanding of M2 architecture.
+Solution: Learning about M2's architecture.  
 
 ### Takeaways 
 * Learned how to build an end to end distributed system
