@@ -110,3 +110,10 @@ Solution: Wrote scripts that automated installing workload (mysql) and sysbench 
 #### Sending REST requests over a SSH server via tunneling
 Why: Lack of prior experience and understanding of M2 architecture 
 Solution: Learning about M2's architecture  
+
+### Takeaways 
+* Learned how to build an end to end distributed system
+* Understood Hardware Isolation Layer for provisioning
+* Understood working of distributed file system like Ceph
+* Understood end to end functionality of M2
+* Learned about iSCSI protocol
