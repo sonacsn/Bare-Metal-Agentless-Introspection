@@ -97,5 +97,9 @@ We observed that for Deep snapshotting there is an average overhead of about 1.2
 We observed that for both Deep snapshotting as well as for light snapshotting the OLTP performance degrades less than 5%, which tell us that continuous snapshotting of the node is incurring minimal performance overhead on the applications running on the node as we have observed very less change in OLTP Transactions
 
 ### Challenges that were expected and were solved
-* Debugging discrepancies in M2 and Ceph:Snapshot Already existsNode Busy(could have clones)snapshot not found
-Debugging is a bit challenging because of the lack of documentationof Open Source ProjectPreparing and Setting up golden imagesSending REST requests over a SSH server via tunnelingAccessing infrastructure due to IP and port based filteringProvisioning and setting up a node
+#### Challenge 1.Debugging discrepancies in M2 and Ceph:
+#### Why:Debugging was challenging because of the lack of documentation owing to an Open Source Project
+#### Solution: Regressively Reading about ceph, taking help from mentor enabled us to overcome errors like Snapshot Already exists, Node Busy(could have clones), snapshot not found
+
+* *Preparing and Setting up golden images 
+* *Sending REST requests over a SSH server via tunneling 
