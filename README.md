@@ -118,43 +118,46 @@ Solution: Learning about M2's architecture
 * Understood end to end functionality of M2
 * Learned about iSCSI protocol
 
-### 7.  Release Planning:
+###  Release Planning:
 
-#### Iteration 1 :
+#### Sprint 1 :
 	1) Read Researh papers about Cloud Monitoring and M2 as a service
 	2) Read about Hardware Isolation Layer
 	3) Understood and Installed Crawler
 	4) Met with Mentors to finalize project goals
-#### Iteration 2 :
+#### Sprint 2 :
 	1) Understood Crawling and Frames that it returns
 	2) Trying to run crawler on different machines and comparing results
 	3) Run and install KVM/QEMU
-#### Iteration 3 :
+#### Sprint 3 :
 	1) Setup Crawler on Crawler VM
 	2) Created an ISCSI target on BMI VM
 	3) Mounted ISCSI target on Crawler
 	4) Wrote a parser script for vulnerability Analysis
-#### Iteration 4 :
+#### Sprint 4 :
 	1) Understood performance Analysis and its impact on our system
 	2) Understood Workbench
 	3) Converted USN Repo into in memory database
 	4) Created shell scripts to mount multiple mount points
- 5) Created Automated Script for Ceph and BMI intereaction
- 6) Automate Vulnerability Anaylsis Report for every crawled output files
-#### Iteration 5 :
+        5) Created Automated Script for Ceph and BMI intereaction
+        6) Automate Vulnerability Anaylsis Report for every crawled output files
+#### Sprint 5 :
 	1) Extended BMI CLI to add new feature called introspect 
 	2) Conducted Performance anaylsis of Deep snapshotting of 10g and 50G 
 	3) Tested UI components
 	4) Test Cases for BMI introspect command
- #### Iteration 6 :
+ #### Sprint 6 :
 	1) Extended Rest API for BMI Command
 	2) Connected UI with the BMI Rest API 
 	3) Performance Evauation for light snapshot 10G and 50g
 	4) IBM Research Web Demo
  
- #### Iteration 7 :
+ #### Sprint 7 :
 	1) Added test cases in M2
 	2) Ceated PULL requests in MOC 
 	3) Created and Presented Poster at MIT
 	4) Prepared and Recored FInal Presentation
- 5) Discussed Future work with our Mentors 
+        5) Discussed Future work with our Mentors 
+
+### Proposed Future Work:
+Crawling live processes with it’s PID for introspection
