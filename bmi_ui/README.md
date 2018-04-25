@@ -1,4 +1,4 @@
-TThis allows you to create and run a ReactJS based UI and interact with bmi and run introspection command.
+This allows you to create and run a ReactJS based UI and interact with bmi and run introspection command.
 
 
 ## How to install and run this
