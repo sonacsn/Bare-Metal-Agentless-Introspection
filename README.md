@@ -104,11 +104,15 @@ Why: Debugging was challenging because of the lack of documentation owing to an 
 Solution: Regressively Reading about ceph, taking help from mentor enabled us to overcome errors like Snapshot Already exists, Node Busy(could have clones), snapshot not found
 
 #### Challenge 2.Preparing and Setting up golden images
+
 Why: Nodes were a very limited resource that use to be allocated to us for a timeslot of 6 hours
+
 Solution: Wrote scripts that automated installing workload (mysql) and sysbench for benchmarking.
 
 #### Challenge 3.Sending REST requests over a SSH server via tunneling
+
 Why: Lack of prior experience and understanding of M2 architecture.
+
 Solution: Learning about M2's architecture.  
 
 ### Takeaways 
