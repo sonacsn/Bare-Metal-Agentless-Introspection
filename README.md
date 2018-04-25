@@ -107,7 +107,7 @@ Solution: Regressively Reading about ceph, taking help from mentor enabled us to
 Why: Nodes were a very limited resource that use to be allocated to us for a timeslot of 6 hours
 Solution: Wrote scripts that automated installing workload (mysql) and sysbench for benchmarking.
 
-#### Sending REST requests over a SSH server via tunneling
+#### Challenge 3.Sending REST requests over a SSH server via tunneling
 Why: Lack of prior experience and understanding of M2 architecture 
 Solution: Learning about M2's architecture  
 
@@ -117,3 +117,6 @@ Solution: Learning about M2's architecture
 * Understood working of distributed file system like Ceph
 * Understood end to end functionality of M2
 * Learned about iSCSI protocol
+
+
+
