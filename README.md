@@ -90,7 +90,7 @@ We observed that for Deep snapshotting there is an average overhead of 5-6 secs,
 We observed that for both Deep snapshotting as well as for light snapshotting the OLTP performance degrades by 50%, which tells us that the performance of the applications running on the node gets affected owing to continuous snapshotting. 
 
 ### *CASE: 2: Data and workload running on different disks (Data center Environment)*
-
+![picture alt](https://github.com/BU-NU-CLOUD-SP18/Bare-Metal-Agentless-Introspection/blob/master/imp2.png "Title is optional")
  
 ### Conclusion of 2nd  Case:
 We observed that for Deep snapshotting there is an average overhead of about 1.2secs , whereas in the case of Light snapshotting, there is almost no overhead incurred running applications on the node are not inducing much overhead in the response time as we can see that red line and green line in figure 1 and 2 are very close to each other, *which is significantly better than the time overhead observed in case 1*
