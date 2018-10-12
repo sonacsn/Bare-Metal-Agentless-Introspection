@@ -20,7 +20,7 @@ An Agentless system that would run introspection out of band and will have minim
 ### Users/Personas of The Project
 A user in the Bare Metal Cloud environment, with access to M2 services, can invoke an introspection on a node that he/she has access to and receive a vulnerability report for that node. The user will have access to a simple user interface which will list all the nodes allocated to his/her project. Along with such users, the MOC admin with access rights to M2 and projects allocated within M2 can also run introspection on nodes. The admin can use a CLI command to run introspection on any node for a project.
 
-### Scope and Features of The Project
+### Scope and Features of The Project 
 * Provides a command line operation that extends the M2 API for MOC admins.
   * _bmi introspect_ command takes in two parameters:
     1. Project name
